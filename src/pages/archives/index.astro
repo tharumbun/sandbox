@@ -36,7 +36,7 @@ const months = [
   <Main pageTitle="Archives" pageDesc="All the articles I've archived.">
     {
       Object.entries(
-        getPostsByGroupCondition(blog, post =>
+        getPostsByGroupCondition(posts, post =>
           post.data.pubDatetime.getFullYear()
         )
       )
