@@ -36,7 +36,7 @@ const months = [
   <Main pageTitle="Archives" pageDesc="All the articles I've archived.">
     {
       Object.entries(
-        getPostsByGroupCondition(posts, post =>
+        getPostsByGroupCondition(blog, post =>
           post.data.pubDatetime.getFullYear()
         )
       )
@@ -70,7 +70,7 @@ const months = [
                           )
                       )
                       .map(({ data, id }) => (
-                        <Card href={`/posts/${id}`} frontmatter={data} />
+                        <Card href={`/blog/${id}`} frontmatter={data} />
                       ))}
                   </ul>
                 </div>
