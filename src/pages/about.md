@@ -2,7 +2,7 @@
 layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
-![Alt text](../assets/tharum_bun.jpg "Tharum Bun")
+
 Photographed by 
 [Zakaria Zainal](https://www.zakariazainalphoto.com/)
 
