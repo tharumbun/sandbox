@@ -3,7 +3,7 @@ author: tharum
 pubDatetime: 2023-04-01T15:22:00Z
 title: My conversation with ChatGPT from Cambodia
 postSlug: open-ai-chatgpt-from-cambodia
-featured: true
+featured: false
 draft: false
 tags:
   - docs
