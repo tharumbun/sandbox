@@ -1,5 +1,4 @@
 import IconMail from "@/assets/icons/IconMail.svg";
-import IconGitHub from "@/assets/icons/IconGitHub.svg";
 import IconBrandX from "@/assets/icons/IconBrandX.svg";
 import IconLinkedin from "@/assets/icons/IconLinkedin.svg";
 import IconWhatsapp from "@/assets/icons/IconWhatsapp.svg";
@@ -21,10 +20,16 @@ export const SOCIALS = [
     icon: IconLinkedin,
   },
   {
-    name: "YouTube",
-    href: "https://www.youtube.com/@tharumbun",
-    linkTitle: `YouTube ${SITE.title}`,
-    icon: Iconyoutube,
+    name: "Telegram",
+    href: "https://t.me/tharum",
+    linkTitle: `Telegram ${SITE.title}`,
+    icon: IconTelegram,
+  },
+  {
+    name: "WhatsApp",
+    href: "https://wa.me/+85578555659",
+    linkTitle: `Telegram ${SITE.title}`,
+    icon: IconWhatsapp,
   },
   {
     name: "Mail",
