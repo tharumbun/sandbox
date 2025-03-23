@@ -21,6 +21,12 @@ export const SOCIALS = [
     icon: IconLinkedin,
   },
   {
+    name: "YouTube",
+    href: "https://www.youtube.com/@tharumbun",
+    linkTitle: `YouTube ${SITE.title}`,
+    icon: Iconyoutube,
+  },
+  {
     name: "Mail",
     href: "mailto:tharum@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
