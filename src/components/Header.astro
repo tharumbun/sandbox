@@ -74,11 +74,6 @@ const isActive = (path: string) => {
             </a>
           </li>
           <li class="col-span-2">
-            <a href="https://photolog.tharum.com/" class:list={{ "active-nav": isActive("https://photolog.tharum.com/") }}>
-              photolog
-            </a>
-          </li>
-          <li class="col-span-2">
             <a href="/tags" class:list={{ "active-nav": isActive("/tags") }}>
               tags
             </a>
@@ -100,7 +95,7 @@ const isActive = (path: string) => {
                     },
                   ]}
                   ariaLabel="archives"
-                  title="Archives"
+                  title="archives"
                 >
                   <IconArchive class="hidden sm:inline-block" />
                   <span class="sm:sr-only">Archives</span>
