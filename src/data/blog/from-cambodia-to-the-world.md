@@ -16,7 +16,7 @@ description:
 
 (Chorus) Tharum Bun, a blogger with a heart He's telling stories that set us apart From the temples of Angkor to the streets of Phnom Penh He's sharing his world with us, again and again
 
-![Alt text](https://unsplash.com/photos/bOmSNCUSUWA "tharum")
+![Alt text](https://images.unsplash.com/photo-1642429990262-c0ce493252d3 "tharum")
 
 
 (Verse 2) From tech to culture, he writes with a flair His words are like magic, taking us there To the markets and the schools, to the villages and more Tharum Bun's blog is like a window to the core
