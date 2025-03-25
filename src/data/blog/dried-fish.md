@@ -11,8 +11,8 @@ ogImage: ""
 description:
   Dried fish the Khmer way
 ---
-Salted in the sun,  
-A taste of rivers preserved—  
+Salted in the sun,
+A taste of rivers preserved—
 Savory and dry.
 
 ![Alt text](https://images.unsplash.com/photo-1655687568123-b5488294f345 "Dried fish the Cambodian way")
@@ -25,10 +25,12 @@ Savory and dry.
 
 ![Alt text](https://images.unsplash.com/photo-1643432847369-d83bd0a4a453 "Dried fish the Cambodian way")
 
-
 ![Alt text](https://images.unsplash.com/photo-1643432847326-4eba5be99ab5 "Dried fish the Cambodian way")
 
 ![Alt text](https://images.unsplash.com/photo-1643432847360-f21fdc60b102 "Dried fish the Cambodian way")
 
+![Alt text](https://images.unsplash.com/photo-1612426357506-8b66a851fbe6 "Dried fish the Cambodian way")
 
+![Alt text](https://images.unsplash.com/photo-1612426357697-5255dd17a2f5 "Dried fish the Cambodian way")
 
+![Alt text](https://images.unsplash.com/photo-1612426357479-2424ce4bc7ca "Dried fish the Cambodian way")
