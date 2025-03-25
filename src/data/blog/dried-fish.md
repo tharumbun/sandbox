@@ -15,5 +15,7 @@ Salted in the sun,
 A taste of rivers preserved—  
 Savory and dry.
 
-![Alt text](https://images.unsplash.com/photo-1655687568124-ba016386e434 "tharum")
+![Alt text](https://images.unsplash.com/photo-1655687568124-ba016386e434 "Dried fish the Cambodian way")
+
+![Alt text](https://images.unsplash.com/photo-1655687568123-b5488294f345 "Dried fish the Cambodian way")
 
