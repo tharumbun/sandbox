@@ -3,13 +3,13 @@ author: tharum
 pubDatetime: 2025-03-20T15:22:00Z
 title: What's in a name?
 postSlug: what-in-name
-featured: true
+featured: false
 draft: false
 tags:
   - note
 ogImage: ""
 description:
-Seeker of bright paths
+  Seeker of bright paths
 ---
 
 "Tharum" has a unique sound, and while it doesn’t have a widely recognized meaning in Greek or other common languages, we can explore its potential significance by breaking it down phonetically and linguistically:
