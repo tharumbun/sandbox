@@ -9,9 +9,7 @@ tags:
   - note
 ogImage: ""
 description:
-Seeker of bright paths,
-Spreading light, steady and true,
-Uplifting the world.
+Seeker of bright paths
 ---
 
 "Tharum" has a unique sound, and while it doesn’t have a widely recognized meaning in Greek or other common languages, we can explore its potential significance by breaking it down phonetically and linguistically:
