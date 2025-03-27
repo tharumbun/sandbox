@@ -4,7 +4,6 @@ import { SITE } from "@/config";
 import { LOCALE } from "@/constants";
 import "@/styles/global.css";
 
-const googleSiteVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
 
 export interface Props {
   title?: string;
@@ -120,18 +119,6 @@ const structuredData = {
     <ClientRouter />
 
     <script is:inline src="/toggle-theme.js" async></script>
-
-
-<!-- Google tag (gtag.js) -->
-<script type="text/partytown" async src="https://www.googletagmanager.com/gtag/js?id=G-QZV07KN3LH"></script>
-<script type="text/partytown">
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-QZV07KN3LH');
-</script>
-
 
   </head>
   <body>
