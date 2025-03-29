@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "Work"
 ---
 
-### Some published work:
+### A selection of my published work:
 
 [From Phnom Penh to Silicon Valley](https://kiripost.com/stories/cambodia-ky-vilayvann-googler)
 
@@ -13,9 +13,9 @@ title: "Work"
 
 [Asia’s Lasting Love Affair with Honda Super Cub](https://kiripost.com/stories/asia-lasting-love-affair-with-honda-super-cub)
 
+### The Interviews
+
 Get updates delivered directly to your inbox! \[ powered by [beehiive](https://www.beehiiv.com/?via=tharum) \]
 
-
 ### Explore my photographs I’ve taken over the years
-
 [available on EyeEm](https://www.eyeem.com/u/33236156)
