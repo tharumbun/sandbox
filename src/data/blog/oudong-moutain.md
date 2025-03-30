@@ -9,11 +9,10 @@ tags:
   - photolog
 ogImage: ""
 description:
-  Dried fish the Khmer way
+Street food at Oudong Mountain
 ---
-Salted in the sun,
-A taste of rivers preserved—
-Savory and dry.
+
+Street food at Oudong Mountain, where locals love to escape from the bustling city of Phnom Penh on the weekends.
 
 ![Alt text](https://images.unsplash.com/photo-1681811832882-cfe30b56356f "Dried fish the Cambodian way")
 
