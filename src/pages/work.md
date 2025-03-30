@@ -15,6 +15,11 @@ title: "Work"
 
 ### The Interviews
 
+[Israeli Ambassador to Cambodia Talks Business, Education, and Technology]
+(https://kiripost.com/stories/israeli-ambassador-to-cambodia-talks-business-education-and-technology)
+
+[Building Bridges Between Cambodia and Israel](https://kiripost.com/stories/cambodia-israel-relations)
+
 Get updates delivered directly to your inbox! \[ powered by [beehiive](https://www.beehiiv.com/?via=tharum) \]
 
 ### Explore my photographs I’ve taken over the years
