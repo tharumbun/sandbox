@@ -3,7 +3,7 @@ author: tharum
 pubDatetime: 2022-12-04T15:22:00Z
 title: Cambodian dried fish in pictures
 postSlug: cambodian-dried-fish
-featured: true
+featured: false
 draft: false
 tags:
   - photolog

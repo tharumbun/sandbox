@@ -3,7 +3,7 @@ author: tharum
 pubDatetime: 2010-05-12T15:22:00Z
 title: How Laura Mam is using music to reconnect with her Cambodian roots
 postSlug: laura-mam
-featured: true
+featured: false
 draft: false
 tags:
   - docs
@@ -200,6 +200,6 @@ I love my people and my country with all of my heart.
 
 _Hat tip to my friend Prum Seila who referred me to her YouTube music video (Bopha Chiang Mai), so that I started to reach out to her for this long interview._
 
-_Speaking through songs  
-Tharum Bun | Publication date 12 May 2010  
+_Speaking through songs
+Tharum Bun | Publication date 12 May 2010
 \[Published in The Phnom Penh Post\]_
