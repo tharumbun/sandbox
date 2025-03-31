@@ -2,15 +2,6 @@ import { defineCollection, z } from "astro:content";
 import { glob } from "astro/loaders";
 import { SITE } from "@/config";
 
-import { defineConfig } from 'astro/config';
-import cloudflare from '@astrojs/cloudflare';
-
-export default defineConfig({
-  output: 'server',
-  adapter: cloudflare(),
-});
-
-
 const blog = defineCollection({
   loader: glob({ pattern: "**/[^_]*.md", base: "./src/data/blog" }),
   schema: ({ image }) =>
