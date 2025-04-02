@@ -31,6 +31,20 @@ Tharum's career path is anything but linear. He seamlessly navigates diverse dis
 
 As Cambodia's digital landscape continues to evolve, Tharum will remain at the forefront, leveraging his diverse skillset and experience to contribute to its growth and empower local communities. His journey stands as an inspiration for anyone seeking to carve their own path in the ever-changing world of technology and communication.
 
+**Countries he has been to:**
+USA (Atlanta, Washington DC, New York, San Fransisco, Sacramento)
+England
+Sweden
+The Netherlands
+Japan
+Thailand
+Vietnam
+Malaysia
+Indonesia
+Myanmar
+Laos
+
 He's currently working on a book project.
+
 Get updates delivered directly to your inbox! [ powered by <a href="https://www.beehiiv.com/?via=tharum">beehiive</a> ]
 <iframe src="https://embeds.beehiiv.com/96e63e4f-0eb7-40af-98c4-28c52ef000ec?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
