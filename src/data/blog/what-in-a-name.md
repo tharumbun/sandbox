@@ -87,3 +87,7 @@ Combining ideas from these languages and cultures, **"Tharum"** could symbolical
 - **"The bringer of light and knowledge"**
 - **"A steadfast seeker of truth"**
 - **"One who uplifts and inspires"**
+
+### 6. **In Chinese?**
+張金祥
+张金祥

@@ -14,7 +14,7 @@ description:
 
 **Sambath Meas: A Khmer American Writer on Her Connection to Cambodia, Passion for Writing, and Views on Reading**
 
-I recently had the privilege of interviewing [Sambath Meas](http://sambathmeas.com/), a Khmer American writer based in Chicago, Illinois. She is the author of two books, “The Immortal Seeds: Life goes on for a Khmer family” and “The Governor’s Daughter: The Scribes of Brahmadhan, Rise of the Eugenicists.” As a fan of her work for a while, I was excited to learn more about her connection to Cambodia, her passion for writing, and her views on reading.
+I recently had the privilege of interviewing [Sambath Meas](https://sambathmeas.com/), a Khmer American writer based in Chicago, Illinois. She is the author of two books, “The Immortal Seeds: Life goes on for a Khmer family” and “The Governor’s Daughter: The Scribes of Brahmadhan, Rise of the Eugenicists.” As a fan of her work for a while, I was excited to learn more about her connection to Cambodia, her passion for writing, and her views on reading.
 
 Sambath shared with me that she was born in Cambodia and fled to the United States with her family as a child. She said that her experiences growing up in both cultures have shaped her writing, and that she is drawn to stories that explore the themes of identity, family, and displacement.
 
@@ -68,4 +68,4 @@ We’re currently living in kali yuga. The battle had begun a few thousand years
 
 3- Cambodia has been severely deforested. I wish … I would like to call out for like-minded people to come together to reforest Cambodia. Also, from city to countryside, Cambodia is littered with garbage. I would like for us to make Cambodia green and clean again.
 
-**Sambath Meas’s official website: [http://sambathmeas.com/](http://sambathmeas.com/)** Follow her on Twitter: [https://twitter.com/MissSambathMeas](https://twitter.com/MissSambathMeas) _Photo courtesy of Sambath Meas_
+**Sambath Meas’s official website: [https://sambathmeas.com/](https://sambathmeas.com/)** Follow her on Twitter: [https://twitter.com/MissSambathMeas](https://twitter.com/MissSambathMeas) _Photo courtesy of Sambath Meas_

@@ -43,6 +43,12 @@ export const SOCIALS = [
     linkTitle: `${SITE.title} on X`,
     icon: IconBrandX,
   },
+    {
+    name: "Bluesky",
+    href: "https://tharum.bsky.social/",
+    linkTitle: `${SITE.title} on Bluesky`,
+    icon: IconBrandX,
+  },
 ] as const;
 
 export const SHARE_LINKS = [
