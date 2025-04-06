@@ -5,6 +5,7 @@ import IconWhatsapp from "@/assets/icons/IconWhatsapp.svg";
 import IconFacebook from "@/assets/icons/IconFacebook.svg";
 import IconTelegram from "@/assets/icons/IconTelegram.svg";
 import IconPinterest from "@/assets/icons/IconPinterest.svg";
+import IconPinterest from "@/assets/icons/Bluesky.svg";
 import { SITE } from "@/config";
 
 export const LOCALE = {
@@ -47,7 +48,7 @@ export const SOCIALS = [
     name: "Bluesky",
     href: "https://tharum.bsky.social/",
     linkTitle: `${SITE.title} on Bluesky`,
-    icon: IconBluesky,
+    icon: Bluesky,
   },
 ] as const;
 
