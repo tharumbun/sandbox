@@ -47,7 +47,7 @@ export const SOCIALS = [
     name: "Bluesky",
     href: "https://tharum.bsky.social/",
     linkTitle: `${SITE.title} on Bluesky`,
-    icon: IconBrandX,
+    icon: IconBluesky,
   },
 ] as const;
 
