@@ -5,6 +5,8 @@ title: "Work"
 
 ### A selection of my published work:
 
+[How a Tiny App Built in Cambodia Caught a Tech Giant’s Eye](https://kiripost.com/stories/cambodia-in-visal-libsql-studio-outerbase-cloudflare)
+
 [From Phnom Penh to Silicon Valley](https://kiripost.com/stories/cambodia-ky-vilayvann-googler)
 
 [Cambodia’s First Starlink Deployed from Vanilla Farm](https://kiripost.com/stories/cambodia-first-space-x-starlink-deployed-from-vanilla-farm-dara-chan)
