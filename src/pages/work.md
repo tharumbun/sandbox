@@ -17,17 +17,13 @@ title: "Work"
 
 [Cambodia’s First Starlink Deployed from Vanilla Farm](https://kiripost.com/stories/cambodia-first-space-x-starlink-deployed-from-vanilla-farm-dara-chan)
 
-[Pharmacist-Turned Entrepreneur Dreams of Safe Drugs for All]
-(https://kiripost.com/stories/cambodia-chea-vireak-pharmacist-turned-entrepreneur-dreams-of-safe-drugs-for-all)
+[Pharmacist-Turned Entrepreneur Dreams of Safe Drugs for All](https://kiripost.com/stories/cambodia-chea-vireak-pharmacist-turned-entrepreneur-dreams-of-safe-drugs-for-all)
 
-[In Conversation with Memory Master Eran Katz]
-(https://kiripost.com/stories/in-conversation-with-memory-master-eran-katz)
+[In Conversation with Memory Master Eran Katz](https://kiripost.com/stories/in-conversation-with-memory-master-eran-katz)
 
-[Caffeine, Culture and Cambodianess]
-(https://tharum.com/blog/campuccino/)
+[Caffeine, Culture and Cambodianess](https://tharum.com/blog/campuccino/)
 
-[Bridging the Startup Gap Between Cambodia and Israel]
-(https://kiripost.com/stories/bridging-the-startup-gap-between-cambodia-and-israel-cicc)
+[Bridging the Startup Gap Between Cambodia and Israel](https://kiripost.com/stories/bridging-the-startup-gap-between-cambodia-and-israel-cicc)
 
 [Israeli Ambassador to Cambodia Talks Business, Education, and Technology](https://kiripost.com/stories/israeli-ambassador-to-cambodia-talks-business-education-and-technology)
 
