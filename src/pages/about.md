@@ -2,7 +2,7 @@
 layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
-Media innovator with over 15 years of experience in journalism, digital strategy, and entrepreneurship. Co-founder of [Kiripost Media](https://kiripost.com/), specializing in delivering impactful content across business and technology landscapes. [View Tharum's CV](https://tharum.com/cv)!
+Media innovator with a decade of experience in media, digital strategy, technology, entrepreneurship. Co-founder of [Kiripost Media](https://kiripost.com/), specializing in delivering impactful content across business and technology landscapes. [View Tharum's CV](https://tharum.com/cv)!
 
 ![Alt text](/assets/tharum_bun.jpg "tharum")
 Photographed by [Zakaria Zainal](https://www.zakariazainalphoto.com/)
