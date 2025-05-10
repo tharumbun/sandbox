@@ -7,14 +7,6 @@ Over the years, here are some of the books I have read. Do you have book suggest
 
 ### Some of my favorite read :
 
-**By Jung Chang:**
-
-[Wild Swans: Three Daughters of China](https://www.amazon.com/dp/0743246985?tag=tbun27_cambodia-20)
-
-[Big Sister, Little Sister, Red Sister: Three Women at the Heart of Twentieth-Century China](https://www.amazon.com/dp/B07VQN78NR?tag=tbun27_cambodia-20)
-
-[Mao: The Unknown Story](https://www.amazon.com/dp/B000FDJ3AK?tag=tbun27_cambodia-20)
-
 [The Circle](https://www.amazon.com/dp/0385351399?tag=tbun27_cambodia-20)
 
 [Harry Potter by J. K. Rowling](https://www.amazon.com/dp/0545162076?tag=tbun27_cambodia-20)
@@ -24,6 +16,15 @@ Over the years, here are some of the books I have read. Do you have book suggest
 [Start-up Nation: The Story of Israel’s Economic Miracle](https://www.amazon.com/dp/0446541478?tag=tbun27_cambodia-20)
 
 [The Psychology of Money by Morgan Housel](https://www.amazon.com/dp/0857197681?tag=tbun27_cambodia-20)
+
+
+**By Jung Chang:**
+
+[Wild Swans: Three Daughters of China](https://www.amazon.com/dp/0743246985?tag=tbun27_cambodia-20)
+
+[Big Sister, Little Sister, Red Sister: Three Women at the Heart of Twentieth-Century China](https://www.amazon.com/dp/B07VQN78NR?tag=tbun27_cambodia-20)
+
+[Mao: The Unknown Story](https://www.amazon.com/dp/B000FDJ3AK?tag=tbun27_cambodia-20)
 
 **All things Cambodia**
 
