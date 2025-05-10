@@ -3,6 +3,13 @@ layout: ../layouts/AboutLayout.astro
 title: "Bookmarks"
 ---
 
+**My gears**
+Macbook Air M3
+iPhone 11
+Casio F-91W
+Ricoh GR IIIx
+
+
 ### Some of my favorite things on the wider web:
 
 **Tech and AI**
@@ -34,4 +41,3 @@ a modern cloud server control panel designed to manage WordPress sites and serve
 [Astro](https://astro.build/)
 
 This blog was built with Astro static site generator and with theme coded by [Sat Naing](https://satnaing.dev/)
-
