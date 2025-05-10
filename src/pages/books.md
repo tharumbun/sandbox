@@ -57,10 +57,6 @@ Over the years, here are some of the books I have read. Do you have book suggest
 
 [Atlas Shrugged](https://www.amazon.com/dp/0525948929?tag=tbun27_cambodia-20)
 
-This site participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com and other affiliated sites.
-
-As an Amazon Associate, we earn from qualifying purchases. This means that when you click on certain links and make a purchase, we may receive a commission at no additional cost to you.
-
-The affiliate income helps support the maintenance and content creation of this site. We only recommend products or services that we believe will add value to our visitors.
-
-Thank you for supporting our site!
+<small>
+This site earns from qualifying purchases as an Amazon Associate. Affiliate links help support our content and maintenance. We only recommend products we trust and find valuable for our readers.
+</small>
