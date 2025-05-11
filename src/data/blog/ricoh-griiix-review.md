@@ -1,17 +1,16 @@
 ---
 author: tharum
 pubDatetime: 2025-05-11T15:22:00Z
-title: Ricoh GR IIIx Review
+title: Ricoh GR IIIx review
 postSlug: ricoh-griiix-review
 featured: false
 draft: false
 tags:
-  - note
+  - review
 ogImage: ""
 description:
   Some thoughts on using Ricoh GR IIIx
 ---
-
 
 ## Ricoh GR IIIx Review: A Compact Street Shooter in Bangkok and Ayutthaya
 
@@ -19,13 +18,13 @@ After spending some quality time with the **Ricoh GR IIIx**, I feel ready to sha
 
 ### First Impressions
 
-Straight out of the box, the Ricoh GR IIIx feels discreet, solid, and minimal. It slips easily into a jacket pocket, yet inside this understated shell lies a sharp 26.1mm equivalent (40mm in full-frame terms) lens and an APS-C sensor. That combo immediately appealed to me—especially for street photography—offering a natural perspective that's a bit tighter than the wider GR III.
+Straight out of the box, the Ricoh GR IIIx feels discreet, solid, and minimal. It slips easily into my jacket pocket, yet inside this understated shell lies a sharp 26.1mm equivalent (40mm in full-frame terms) lens and an APS-C sensor. That combo immediately appealed to me—especially for street photography—offering a natural perspective that's a bit tighter than the wider GR III.
 
 ### Using It in Thailand: Bangkok & Ayutthaya
 
 Thailand is a photographer’s dream. The vibrant chaos of **Bangkok** and the historical serenity of **Ayutthaya** offered the perfect testing grounds.
 
-In **Bangkok**, I walked through Chinatown, Lumpini Park, and the backstreets around Sukhumvit. The GR IIIx was perfect for candid street shots. Its **Snap Focus mode** let me zone focus and shoot quickly, silently, and without drawing attention—crucial for authentic street moments.
+In **Bangkok**, I walked through Chinatown, Benchakitti Park, and the backstreets around Sukhumvit. The GR IIIx was perfect for candid street shots. Its **Snap Focus mode** let me zone focus and shoot quickly, silently, and without drawing attention—crucial for authentic street moments.
 
 In **Ayutthaya**, the camera handled the shifting light among ancient temples beautifully. The details in the bricks, textures of old ruins, and quiet moments of local life were captured with clarity and mood. The image quality was impressive for such a small device—sharp, contrasty, and with great dynamic range.
 
@@ -39,11 +38,10 @@ In **Ayutthaya**, the camera handled the shifting light among ancient temples be
 
 ### What Could Be Better
 
-* **Battery Life**: You'll need a spare. It drains faster than I’d like.
+* **Battery Life**: You'll need a spare. It drains faster than I’d like. And it can get hot easily.
 * **No Viewfinder**: Not a dealbreaker, but in bright sunlight, the LCD can be hard to see.
 * **Menu System**: A bit clunky at first, though customizable buttons help ease the pain.
 
-### Final Thoughts
 
 The Ricoh GR IIIx isn’t trying to be everything. It’s not a zoom camera, not built for sports or wildlife, and not meant for those who want full manual lens control. But for everyday photography, street shooting, and quiet documentation of your surroundings, it’s a beautiful tool.
 
