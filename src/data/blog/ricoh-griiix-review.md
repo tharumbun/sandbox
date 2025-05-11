@@ -28,6 +28,11 @@ In **Bangkok**, I walked through Chinatown, Benchakitti Park, and the backstreet
 
 In **Ayutthaya**, the camera handled the shifting light among ancient temples beautifully. The details in the bricks, textures of old ruins, and quiet moments of local life were captured with clarity and mood. The image quality was impressive for such a small device—sharp, contrasty, and with great dynamic range.
 
+
+![Co-Co Walk](https://images.unsplash.com/photo-1746983245231-fdd1fb878e2a)
+Phaya Thai Rd, Thanon Phetchaburi, Ratchathewi, Bangkok
+
+
 ### What I Love
 
 * **Portability**: Truly pocketable. No neck strain, no heavy bag—just grab and go.
