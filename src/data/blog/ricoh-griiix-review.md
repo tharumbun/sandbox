@@ -14,7 +14,7 @@ description:
 
 ## Ricoh GR IIIx Review: A Compact Street Shooter in Bangkok and Ayutthaya
 
-After spending some quality time with the **Ricoh GR IIIx**, I feel ready to share my thoughts about this compact yet powerful camera. If you're considering a portable camera for travel, street, or everyday photography, the GR IIIx deserves serious attention.
+After spending some quality time with the **[Ricoh GR IIIx](https://www.amazon.com/dp/B09GL1L694?tag=tbun27_cambodia-20)**, I feel ready to share my thoughts about this compact yet powerful camera. If you're considering a portable camera for travel, street, or everyday photography, the GR IIIx deserves serious attention.
 
 ### First Impressions
 
@@ -51,9 +51,6 @@ In **Ayutthaya**, the camera handled the shifting light among ancient temples be
 * **Menu System**: A bit clunky at first, though customizable buttons help ease the pain.
 
 
-The Ricoh GR IIIx isn’t trying to be everything. It’s not a zoom camera, not built for sports or wildlife, and not meant for those who want full manual lens control. But for everyday photography, street shooting, and quiet documentation of your surroundings, it’s a beautiful tool.
+The [Ricoh GR IIIx](https://www.amazon.com/dp/B09GL1L694?tag=tbun27_cambodia-20) isn’t trying to be everything. It’s not a zoom camera, not built for sports or wildlife, and not meant for those who want full manual lens control. But for everyday photography, street shooting, and quiet documentation of your surroundings, it’s a beautiful tool.
 
 If you’re exploring places like Bangkok or Ayutthaya—or just wandering your own city—this camera gets out of the way and lets you shoot.
-
-I’ll be posting some of my favorite GR IIIx shots from Thailand soon, so stay tuned!
-
