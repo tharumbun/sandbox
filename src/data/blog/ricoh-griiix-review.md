@@ -1,6 +1,6 @@
 ---
 author: tharum
-pubDatetime: 2025-05-11T15:22:00Z
+pubDatetime: 2025-05-11T15:33:00Z
 title: Ricoh GR IIIx review
 postSlug: ricoh-griiix-review
 featured: false
@@ -22,15 +22,18 @@ Straight out of the box, the Ricoh GR IIIx feels discreet, solid, and minimal. I
 
 ### Using It in Thailand: Bangkok & Ayutthaya
 
+![Co-Co Walk](https://images.unsplash.com/photo-1746983245231-fdd1fb878e2a)
+Phaya Thai Rd, Thanon Phetchaburi, Ratchathewi, Bangkok
+
+![The Story Ayutthaya](https://images.unsplash.com/photo-1746983977778-6c5eb334d365)
+Tambon Tha Wa Su Kri, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000, Thailand
+
 Thailand is a photographer’s dream. The vibrant chaos of **Bangkok** and the historical serenity of **Ayutthaya** offered the perfect testing grounds.
 
 In **Bangkok**, I walked through Chinatown, Benchakitti Park, and the backstreets around Sukhumvit. The GR IIIx was perfect for candid street shots. Its **Snap Focus mode** let me zone focus and shoot quickly, silently, and without drawing attention—crucial for authentic street moments.
 
 In **Ayutthaya**, the camera handled the shifting light among ancient temples beautifully. The details in the bricks, textures of old ruins, and quiet moments of local life were captured with clarity and mood. The image quality was impressive for such a small device—sharp, contrasty, and with great dynamic range.
 
-
-![Co-Co Walk](https://images.unsplash.com/photo-1746983245231-fdd1fb878e2a)
-Phaya Thai Rd, Thanon Phetchaburi, Ratchathewi, Bangkok
 
 
 ### What I Love
