@@ -4,9 +4,13 @@ title: "Bookmarks"
 ---
 
 **My gears**
+
 [Ricoh GR IIIx](https://tharum.com/blog/ricoh-griiix-review/)
+
 [Macbook Air M3](https://www.amazon.com/dp/B0CX23V2ZK?tag=tbun27_cambodia-20)
+
 [Casio F-91W](https://www.amazon.com/dp/B000GAWSDG?tag=tbun27_cambodia-20)
+
 iPhone 11
 
 ### Some of my favorite things on the wider web:
