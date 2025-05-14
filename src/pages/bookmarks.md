@@ -4,18 +4,17 @@ title: "Bookmarks"
 ---
 
 **My gears**
-Macbook Air M3
+[Ricoh GR IIIx](https://tharum.com/blog/ricoh-griiix-review/)
+[Macbook Air M3](https://www.amazon.com/dp/B0CX23V2ZK?tag=tbun27_cambodia-20)
+[Casio F-91W](https://www.amazon.com/dp/B000GAWSDG?tag=tbun27_cambodia-20)
 iPhone 11
-Casio F-91W
-Ricoh GR IIIx
-
 
 ### Some of my favorite things on the wider web:
 
 **Tech and AI**
 
 [The Verge](https://www.theverge.com/) / [Ars Technica](https://arstechnica.com/) / [HugginFace](https://huggingface.co/) / [Poeh](https://poe.com/)
-
+[SweetMemoryStudio](https://sweetmemorystudio.com/)
 
 **Weblogs**
 
