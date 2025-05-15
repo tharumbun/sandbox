@@ -3,7 +3,7 @@ export const SITE = {
   author: "Bun Tharum",
   profile: "https://tharum.com",
   desc: "Blogging from the heart of Cambodia",
-  title: "Tharum : Musings from Cambodia",
+  title: "tharum.com",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
