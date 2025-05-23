@@ -57,9 +57,9 @@ If you’re exploring places like Bangkok or Ayutthaya—or just wandering your 
 
 
 Updated: 2025 May 23
-Ricoh announced GR IV camera
+On May 22, 2025, Ricoh announced the development of GR IV camera, the latest model of the GR-series high-end compact cameras.
 
-# Ricoh GR III vs GR IV (Speculative Comparison)
+### Ricoh GR III vs GR IV (Speculative Comparison)
 
 As of **May 2025**, **Ricoh has not officially released a GR IV**. The latest models in the GR series are the **Ricoh GR III and GR IIIx**, with some limited editions and firmware updates. While there have been community rumors about a GR IV, nothing has been confirmed by Ricoh Imaging.
 
@@ -67,12 +67,12 @@ Below is a comparison between the **Ricoh GR III** and the **expected/speculated
 
 | Feature            | Ricoh GR III                      | Expected/Speculated GR IV (Not official)                        |
 |--------------------|-----------------------------------|------------------------------------------------------------------|
-| **Sensor**         | 24.2MP APS-C CMOS                 | Possibly same resolution, but with better dynamic range & low-light performance |
-| **Lens**           | 28mm f/2.8 (equiv.)               | Likely same focal length; possibly faster aperture (e.g., f/2.4) |
+| **Sensor**         | 24.2MP APS-C CMOS                 | Approx. 25.74 megapixels, but with better dynamic range & low-light performance |
+| **Lens**           | 28mm f/2.8 (equiv.)               | 7 elements in 5 groups (3 aspherical lens elements) |
 | **Image Processor**| GR Engine 6                       | Updated image engine with improved speed and noise handling      |
 | **Autofocus**      | Hybrid AF (contrast + phase)      | Enhanced hybrid AF with faster performance and possible eye-detection |
 | **IBIS**           | 3-axis in-body stabilization      | Potentially improved 5-axis or enhanced 3-axis stabilization     |
-| **LCD Screen**     | 3.0" Fixed Touchscreen            | Likely a tilting or articulating screen—top user request         |
+| **LCD Screen**     | 3.0" Fixed Touchscreen            | 3.0 inch TFT color LCD (aspect ratio 3:2)、Approx. 1037K dots, Wide viewing angle, Air-gapless tempered glass         |
 | **Video**          | 1080p at 60fps                    | Expected support for 4K video recording                          |
 | **Connectivity**   | Wi-Fi, Bluetooth                  | Better Bluetooth stability and app integration                   |
 | **Battery Life**   | ~200 shots per charge             | Slightly improved battery or USB-C fast charging support         |
