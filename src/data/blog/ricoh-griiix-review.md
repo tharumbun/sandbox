@@ -12,6 +12,8 @@ description:
   Some thoughts on using Ricoh GR IIIx
 ---
 
+My first digital camera was a Nikon D60. Before that, I had a Nikon film camera that my father gave me for my first flight to Europe.
+
 ## Ricoh GR IIIx Review: A Compact Street Shooter in Bangkok and Ayutthaya
 
 After spending some quality time with the **[Ricoh GR IIIx](https://www.amazon.com/dp/B09GL1L694?tag=tbun27_cambodia-20)**, I feel ready to share my thoughts about this compact yet powerful camera. If you're considering a portable camera for travel, street, or everyday photography, the GR IIIx deserves serious attention.
