@@ -1,0 +1,27 @@
+---
+const res = await fetch('https://img.tharum.com/wp-json/wp/v2/media?per_page=20');
+const mediaItems = await res.json();
+---
+
+<html>
+  <head>
+    <title>Tharum's Photo Gallery</title>
+  </head>
+  <body>
+    <h1>My Gallery</h1>
+    <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+      {
+        mediaItems.map((item) => (
+          <div style="width: 200px;">
+            <img 
+              src={item.source_url} 
+              alt={item.alt_text || item.title.rendered} 
+              style="width: 100%; height: auto; border-radius: 8px;"
+            />
+            <p innerHTML={item.caption.rendered}></p>
+          </div>
+        ))
+      }
+    </div>
+  </body>
+</html>
