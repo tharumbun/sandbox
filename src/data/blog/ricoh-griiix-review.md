@@ -54,3 +54,27 @@ In **Ayutthaya**, the camera handled the shifting light among ancient temples be
 The [Ricoh GR IIIx](https://www.amazon.com/dp/B09GL1L694?tag=tbun27_cambodia-20) isn’t trying to be everything. It’s not a zoom camera, not built for sports or wildlife, and not meant for those who want full manual lens control. But for everyday photography, street shooting, and quiet documentation of your surroundings, it’s a beautiful tool.
 
 If you’re exploring places like Bangkok or Ayutthaya—or just wandering your own city—this camera gets out of the way and lets you shoot.
+
+
+Updated: 2025 May 23
+Ricoh announced GR IV camera
+
+# Ricoh GR III vs GR IV (Speculative Comparison)
+
+As of **May 2025**, **Ricoh has not officially released a GR IV**. The latest models in the GR series are the **Ricoh GR III and GR IIIx**, with some limited editions and firmware updates. While there have been community rumors about a GR IV, nothing has been confirmed by Ricoh Imaging.
+
+Below is a comparison between the **Ricoh GR III** and the **expected/speculated features** of a future GR IV:
+
+| Feature            | Ricoh GR III                      | Expected/Speculated GR IV (Not official)                        |
+|--------------------|-----------------------------------|------------------------------------------------------------------|
+| **Sensor**         | 24.2MP APS-C CMOS                 | Possibly same resolution, but with better dynamic range & low-light performance |
+| **Lens**           | 28mm f/2.8 (equiv.)               | Likely same focal length; possibly faster aperture (e.g., f/2.4) |
+| **Image Processor**| GR Engine 6                       | Updated image engine with improved speed and noise handling      |
+| **Autofocus**      | Hybrid AF (contrast + phase)      | Enhanced hybrid AF with faster performance and possible eye-detection |
+| **IBIS**           | 3-axis in-body stabilization      | Potentially improved 5-axis or enhanced 3-axis stabilization     |
+| **LCD Screen**     | 3.0" Fixed Touchscreen            | Likely a tilting or articulating screen—top user request         |
+| **Video**          | 1080p at 60fps                    | Expected support for 4K video recording                          |
+| **Connectivity**   | Wi-Fi, Bluetooth                  | Better Bluetooth stability and app integration                   |
+| **Battery Life**   | ~200 shots per charge             | Slightly improved battery or USB-C fast charging support         |
+| **Build & Design** | Compact, magnesium alloy body     | Same size likely, but possibly weather-sealed                    |
+| **Firmware**       | Snap focus, highlight metering, etc. | More custom modes, AI enhancements, improved UI                |
