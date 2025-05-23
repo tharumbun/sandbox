@@ -18,7 +18,7 @@ const mediaItems = await res.json();
               alt={item.alt_text || item.title.rendered} 
               style="width: 100%; height: auto; border-radius: 8px;"
             />
-            <p innerHTML={item.caption.rendered}></p>
+           <p set:html={item.caption.rendered}></p>
           </div>
         ))
       }
