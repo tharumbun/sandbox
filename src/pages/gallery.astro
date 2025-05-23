@@ -22,7 +22,7 @@ const mediaItems: MediaItem[] = await res.json();
     <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
       {
         mediaItems.map((item) => (
-          <div style="width: 200px;" key={item.id}>
+          <div style="width: 200px;">
             <img 
               src={item.source_url} 
               alt={item.alt_text || item.title.rendered} 
