@@ -12,13 +12,12 @@ description:
   Christian Church in Jerusalem
 ---
 
-![Christian Church in Jerusalem](https://img.tharum.com/wp-content/uploads/2025/05/att.4U_nH8w2pOboQ6C007iSaStPzdKp6NYZsnvrUJm3kqY.jpg "Christian Church in Jerusalem")
+![Christian Church in Jerusalem](https://img.tharum.com/wp-content/uploads/2025/05/att.jUpHdTjW5RuB6Zv7yizkWlnzxNsEsgH_PqUPPFGohR4.jpg "Christian Church in Jerusalem")
 
 ![Christian Church in Jerusalem](https://img.tharum.com/wp-content/uploads/2025/05/att.4JElXnKrcprtkoi2z5JqMDlmB5xR8lVMaNJw-wiFRxY.jpg "Christian Church in Jerusalem")
 
 ![Christian Church in Jerusalem](https://img.tharum.com/wp-content/uploads/2025/05/att.833glv8HszdqtfkCHiwKkl-zmUHfUZ8rsh0eMi2dZfA.jpg "Christian Church in Jerusalem")
 
-![Christian Church in Jerusalem](https://img.tharum.com/wp-content/uploads/2025/05/att.Auk6YHsG2_akCFCkRSwGMU2meZVaZTpvzrF9HrXvNpo.jpg "Christian Church in Jerusalem")
+![Christian Church in Jerusalem](https://img.tharum.com/wp-content/uploads/2025/05/att.f_StneLcGrCl-vIzTtjYh2Qoxz_nCpYVbmeE7jq8jZU.jpg "Christian Church in Jerusalem")
 
 ![Christian Church in Jerusalem](https://img.tharum.com/wp-content/uploads/2025/05/att.cjxBC-euer_flXn3aUAUuxnd__7NXByylL5hYf5JWNM.jpg "Christian Church in Jerusalem")
-
