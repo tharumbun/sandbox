@@ -1,6 +1,6 @@
 ---
 author: tharum
-pubDatetime: 2025-05-24T15:22:00Z
+pubDatetime: 2025-05-23T15:22:00Z
 title: Christian church in Jerusalem
 postSlug: church-jerusalem
 featured: false
