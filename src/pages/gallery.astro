@@ -30,11 +30,6 @@ const mediaItems: MediaItem[] = await res.json();
             alt={item.alt_text || item.title.rendered} 
             class="w-full h-auto object-cover rounded-t"
           />
-          <img 
-  loading="lazy"
-  src={item.source_url} 
-  ...
-/>
 
           <div class="p-2 text-sm text-gray-600" set:html={item.caption.rendered}></div>
         </div>
