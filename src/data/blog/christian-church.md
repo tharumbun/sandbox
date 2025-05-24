@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - photolog
-ogImage: ""
+ogImage: "https://img.tharum.com/wp-content/uploads/2025/05/att.ZpzC63A600OadLe1OpliMBNP9mMPgpn9WjgcuwfRswk.jpg"
 description:
   Pilgrimage site for Christians in Jerusalem
 ---
