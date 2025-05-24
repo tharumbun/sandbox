@@ -1,7 +1,7 @@
 ---
 author: tharum
 pubDatetime: 2025-05-12T15:22:00Z
-title: Christian Church in Jerusalem
+title: Church of the Holy Sepulchre
 postSlug: christian-church
 featured: false
 draft: false
@@ -9,7 +9,7 @@ tags:
   - photolog
 ogImage: ""
 description:
-  Christian Church in Jerusalem
+  Pilgrimage site for Christians in Jerusalem
 ---
 
 ![Christian Church in Jerusalem](https://img.tharum.com/wp-content/uploads/2025/05/att.jUpHdTjW5RuB6Zv7yizkWlnzxNsEsgH_PqUPPFGohR4.jpg "Christian Church in Jerusalem")
