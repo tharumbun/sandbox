@@ -26,3 +26,5 @@ Inside the pilgrimage site for Christians in Jerusalem
 
 ![Christian Church in Jerusalem](https://img.tharum.com/wp-content/uploads/2025/05/att.oowgYq7G6-NExDFHgUFyDxvHVNmogvh1O5tjOdWbCVk.jpg "Christian Church in Jerusalem")
 Church of the Holy Sepulchre is a fourth-century church in the Christian Quarter of the Old City of Jerusalem
+
+[Shot with Ricoh GRIIIx](https://tharum.com/blog/ricoh-griiix-review/)
