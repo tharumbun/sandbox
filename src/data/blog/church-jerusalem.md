@@ -8,12 +8,8 @@ draft: false
 tags:
   - photolog
 ogImage: ""
-description:
-  Christian church in Jerusalem
+description: Christian church in Jerusalem
 ---
-Salted in the sun,
-A taste of rivers preserved—
-Savory and dry.
 
 ![At Church of the Holy Sepulchre of the Old City of Jerusalem](https://img.tharum.com/wp-content/uploads/2025/05/att.4U_nH8w2pOboQ6C007iSaStPzdKp6NYZsnvrUJm3kqY.jpg)
 ![At Church of the Holy Sepulchre of the Old City of Jerusalem](https://img.tharum.com/wp-content/uploads/2025/05/att.4JElXnKrcprtkoi2z5JqMDlmB5xR8lVMaNJw-wiFRxY.jpg)
