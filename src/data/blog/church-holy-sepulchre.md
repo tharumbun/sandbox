@@ -11,7 +11,7 @@ ogImage: "https://img.tharum.com/wp-content/uploads/2025/05/att.ZpzC63A600OadLe1
 description:
   Pilgrimage site for Christians in Jerusalem
 ---
-Church of the Holy Sepulchre the pilgrimage site for Christians in Jerusalem's Old City. I visited the Israel for a week in late April 2025. More photos of the series is coming.
+Church of the Holy Sepulchre the pilgrimage site for Christians in Jerusalem's Old City. I visited Israel for a week in late April 2025. More photos of the series is coming.
 
 ![Christian Church in Jerusalem](https://img.tharum.com/wp-content/uploads/2025/05/att.jUpHdTjW5RuB6Zv7yizkWlnzxNsEsgH_PqUPPFGohR4.jpg "Christian Church in Jerusalem")
 Visitors walking out the Christian church
