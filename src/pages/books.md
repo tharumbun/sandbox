@@ -2,6 +2,7 @@
 layout: ../layouts/AboutLayout.astro
 title: "Books"
 ---
+*As an Amazon Associate I earn from qualifying purchases.*
 
 Over the years, here are some of the books I have read. Do you have book suggestions for me to read? If so, please send me an email!
 

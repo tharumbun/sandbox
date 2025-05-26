@@ -2,14 +2,17 @@
 layout: ../layouts/AboutLayout.astro
 title: "Bookmarks"
 ---
+*As an Amazon Associate I earn from qualifying purchases.*
+
+thrm08-20
 
 **My gears**
 
 [Ricoh GR IIIx](https://tharum.com/blog/ricoh-griiix-review/)
 
-[Macbook Air M3](https://www.amazon.com/dp/B0CX23V2ZK?tag=tbun27_cambodia-20)
+[Macbook Air M3](https://www.amazon.com/dp/B0CX23V2ZK?tag=thrm08-20)
 
-[Casio F-91W](https://www.amazon.com/dp/B000GAWSDG?tag=tbun27_cambodia-20)
+[Casio F-91W](https://www.amazon.com/dp/B000GAWSDG?tag=thrm08-20)
 
 iPhone 11
 
