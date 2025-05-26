@@ -11,6 +11,7 @@ ogImage: ""
 description:
   Some thoughts on using Ricoh GR IIIx
 ---
+*As an Amazon Associate I earn from qualifying purchases.*
 
 My first digital camera was a Nikon D60. Before that, I had a Nikon film camera that my father gave me for my first flight to Europe.
 
@@ -82,4 +83,3 @@ Below is a comparison between the **Ricoh GR III** and the **expected/speculated
 | **Firmware**       | Snap focus, highlight metering, etc. | More custom modes, AI enhancements, improved UI                |
 
 
-As an Amazon Associate I earn from qualifying purchases.
