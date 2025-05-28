@@ -83,16 +83,16 @@ Below is a comparison between the **Ricoh GR III** and the **expected/speculated
 
 | Feature            | Ricoh GR III                      | Expected/Speculated GR IV (Not official)                        |
 |--------------------|-----------------------------------|------------------------------------------------------------------|
-| **Sensor**         | 24.2MP APS-C CMOS                 | Approx. 25.74 megapixels, but with better dynamic range & low-light performance |
-| **Lens**           | 28mm f/2.8 (equiv.)               | 7 elements in 5 groups (3 aspherical lens elements) |
-| **Image Processor**| GR Engine 6                       | Updated image engine with improved speed and noise handling      |
-| **Autofocus**      | Hybrid AF (contrast + phase)      | Enhanced hybrid AF with faster performance and possible eye-detection |
-| **IBIS**           | 3-axis in-body stabilization      | Potentially improved 5-axis or enhanced 3-axis stabilization     |
-| **LCD Screen**     | 3.0" Fixed Touchscreen            | 3.0 inch TFT color LCD (aspect ratio 3:2)、Approx. 1037K dots, Wide viewing angle, Air-gapless tempered glass         |
+| **Sensor**         | 24.2MP APS-C CMOS                 | Approx. 25.74 megapixels|
+| **Lens**           | 28mm f/2.8 (equiv.)               | 7 elements in 5 groups |
+| **Image Processor**| GR Engine 6                       | Updated image engine       |
+| **Autofocus**      | Hybrid AF (contrast + phase)      | Enhanced hybrid AF |
+| **IBIS**           | 3-axis in-body stabilization      | Potentially improved 5-axis |
+| **LCD Screen**     | 3.0" Fixed Touchscreen            | 3.0 inch TFT color LCD (aspect ratio 3:2) |
 | **Video**          | 1080p at 60fps                    | Expected support for 4K video recording                          |
-| **Connectivity**   | Wi-Fi, Bluetooth                  | Better Bluetooth stability and app integration                   |
-| **Battery Life**   | ~200 shots per charge             | Slightly improved battery or USB-C fast charging support         |
-| **Build & Design** | Compact, magnesium alloy body     | Same size likely, but possibly weather-sealed                    |
-| **Firmware**       | Snap focus, highlight metering, etc. | More custom modes, AI enhancements, improved UI                |
+| **Connectivity**   | Wi-Fi, Bluetooth                  | Better Bluetooth stability                  |
+| **Battery Life**   | ~200 shots per charge             | Slightly improved battery     |
+| **Build & Design** | Compact, magnesium alloy body     | Same size likely                  |
+| **Firmware**       | Snap focus, highlight metering, etc. | More custom modes               |
 
 
