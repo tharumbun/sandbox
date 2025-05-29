@@ -81,7 +81,7 @@ As of **May 2025**, **Ricoh has not officially released a GR IV**. The latest mo
 
 Below is a comparison between the **Ricoh GR III** and the **expected/speculated features** of a future GR IV:
 
-| Feature            | Ricoh GR III                      | Expected/Speculated GR IV (Not official)                        |
+| Feature            | Ricoh GR III                      | Expected GR IV                                                   |
 |--------------------|-----------------------------------|------------------------------------------------------------------|
 | **Sensor**         | 24.2MP APS-C CMOS                 | 25.74 megapixels                                                 |
 | **Lens**           | 28mm f/2.8 (equiv.)               | 7 elements in 5 groups                                           |
@@ -93,5 +93,4 @@ Below is a comparison between the **Ricoh GR III** and the **expected/speculated
 | **Battery Life**   | ~200 shots per charge             | Slightly improved battery                                        |
 | **Build & Design** | Compact, magnesium alloy body     | Same size likely                                                 |
 | **Firmware**       | Snap focus, highlight metering    | More custom modes                                                |
-
 
