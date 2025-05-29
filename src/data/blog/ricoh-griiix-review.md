@@ -15,7 +15,9 @@ description:
 
 "The best camera is the one that's with you." Some say the Ricoh GR IIIx is like a pen that fits your hand. As a GRist, I'm very happy to share my thoughts on this little point-and-shoot camera that could.
 
-"Image quality and response are the means to respond to the photographer's intentions," according to Ricoh's statement on its [GR's story](https://www.ricoh-imaging.co.jp/english/products/gr_special/story.html). In addition, it defines "An excellent camera is one that works in concert with the user's intention, always providing comfortable feedback." 
+"Image quality and response are the means to respond to the photographer's intentions," according to Ricoh's statement on its [GR's story](https://www.ricoh-imaging.co.jp/english/products/gr_special/story.html). In addition, it defines "An excellent camera is one that works in concert with the user's intention, always providing comfortable feedback."
+
+The Ricoh GR IIIx was released in September 2021. I got my hands on it in 2024, and I'm glad to now have it as my travel companion.
 
 Straight out of the box, the Ricoh GR IIIx feels very solid and minimal. It slips easily into my jeans pocket, yet inside this understated shell lies a sharp 26.1mm equivalent lens (40mm in full-frame terms) and an APS-C sensor. That combo immediately appealed to me—especially given my passion for street photography—offering a natural perspective that's a bit tighter than the wider GR III (28mm in full-frame).
 
