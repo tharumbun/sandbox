@@ -13,15 +13,15 @@ description:
 ---
 *As an Amazon Associate I earn from qualifying purchases.*
 
-My first digital camera was a Nikon D60. Before that, I had a Nikon film camera that my father gave me for my first flight to Europe.
+"The best camera is the one that's with you." Some say the Ricoh GR IIIx is like a pen that fits your hand. As a GRist, I'm very happy to share my thoughts on this little point-and-shoot camera that could.
+
+Straight out of the box, the Ricoh GR IIIx feels very solid and minimal. It slips easily into my jeans pocket, yet inside this understated shell lies a sharp 26.1mm equivalent lens (40mm in full-frame terms) and an APS-C sensor. That combo immediately appealed to me—especially given my passion for street photography—offering a natural perspective that's a bit tighter than the wider GR III (28mm in full-frame).
+
 
 ## Ricoh GR IIIx Review: A Compact Street Shooter in Bangkok and Ayutthaya
 
 After spending some quality time with the **[Ricoh GR IIIx](https://www.amazon.com/dp/B09GL1L694?tag=thrm08-20)**, I feel ready to share my thoughts about this compact yet powerful camera. If you're considering a portable camera for travel, street, or everyday photography, the GR IIIx deserves serious attention.
 
-### First Impressions
-
-Straight out of the box, the Ricoh GR IIIx feels discreet, solid, and minimal. It slips easily into my jacket pocket, yet inside this understated shell lies a sharp 26.1mm equivalent (40mm in full-frame terms) lens and an APS-C sensor. That combo immediately appealed to me—especially for street photography—offering a natural perspective that's a bit tighter than the wider GR III.
 
 ### Using It in Thailand: Bangkok & Ayutthaya
 
@@ -94,3 +94,5 @@ Below is a comparison between the **Ricoh GR III** and the **expected/speculated
 | **Build & Design** | Compact, magnesium alloy body     | Same size likely                                                 |
 | **Firmware**       | Snap focus, highlight metering    | More custom modes                                                |
 
+
+My first digital camera was a Nikon D60. Before that, I had a Nikon film camera that my father gave me for my first flight to Europe.
