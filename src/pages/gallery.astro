@@ -22,9 +22,9 @@ const mediaItems: MediaItem[] = await res.json();
 
 <main id="main-content" class="mx-auto max-w-5xl px-4 py-10">
   <h1 class="text-3xl font-bold mb-6">My photo gallery</h1>
-  <div class="grid grid-cols-1 gap-6">
+  <div class="columns-1 sm:columns-2 lg:columns-3 gap-4 space-y-4">
     {mediaItems.map((item) => (
-      <div class="rounded overflow-hidden shadow-md">
+      <div class="break-inside-avoid rounded overflow-hidden shadow-md">
         <img 
           src={item.source_url} 
           alt={item.alt_text || item.title.rendered} 
@@ -35,6 +35,7 @@ const mediaItems: MediaItem[] = await res.json();
     ))}
   </div>
 </main>
+
 
 
   <Footer />
