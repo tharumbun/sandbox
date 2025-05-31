@@ -21,9 +21,10 @@ const mediaItems: MediaItem[] = await res.json();
   <Header />
 
 <main id="main-content" class="mx-auto max-w-5xl px-4 py-10">
-  <h1 class="text-3xl font-bold mb-6">My photo gallery</h1>
+  <h1 class="text-3xl font-bold mb-6">A collection of my photographs</h1>
 
-This gallery page is a collection of some of my selected photographs taken over the years. Aside from this page, you can also check out my photolog, which includes thoughts and experiences along with the photos.
+This gallery page is a collection of some of my selected photographs taken over the years. Aside from this page, you can also check out <a href="tags/photolog/">my photolog</a>, which includes thoughts and experiences along with the photos.
+
 
   <div class="columns-1 sm:columns-2 lg:columns-3 gap-4 space-y-4">
     {mediaItems.map((item) => (
