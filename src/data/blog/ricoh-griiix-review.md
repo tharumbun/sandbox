@@ -69,12 +69,9 @@ In **Ayutthaya**, the camera handled the shifting light among ancient temples be
 * **Carrying Case/Pouch**: A protective case or pouch is advised to shield the camera from dust and scratches, especially when stored in a bag.
 
 
-
-
 The [Ricoh GR IIIx](https://www.amazon.com/dp/B09GL1L694?tag=thrm08-20) isn’t trying to be everything. It’s not a zoom camera, not built for sports or wildlife, and not meant for those who want full manual lens control. But for everyday photography, street shooting, and quiet documentation of your surroundings, it’s a beautiful tool.
 
 If you’re exploring places like Bangkok or Ayutthaya—or just wandering your own city—this camera gets out of the way and lets you shoot.
-
 
 Updated: 2025 May 23
 On May 22, 2025, Ricoh announced the development of GR IV camera, the latest model of the GR-series high-end compact cameras.
@@ -100,3 +97,6 @@ Below is a comparison between the **Ricoh GR III** and the **expected/speculated
 
 
 My first digital camera was a Nikon D60. Before that, I had a Nikon film camera that my father gave me for my first flight to Europe.
+
+Also good read:
+[On Reddit: Debating a GR IIIX, worth it in 2024?](https://www.reddit.com/r/ricohGR/comments/1b5eiyr/debating_a_gr_iiix_worth_it_in_2024/)
