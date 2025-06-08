@@ -11,7 +11,7 @@ ogImage: ""
 description:
   Some thoughts on using Ricoh GR IIIx
 ---
-*As an Amazon Associate I earn from qualifying purchases.*
+<small>*As an Amazon Associate I earn from qualifying purchases.*</small>
 
 "The best camera is the one that's with you." Some say the Ricoh GR IIIx is like a pen that fits your hand. As a GRist, I'm very happy to share my thoughts on this little point-and-shoot camera that could.
 
