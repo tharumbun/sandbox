@@ -67,11 +67,11 @@ In **Ayutthaya**, the camera handled the shifting light among ancient temples be
 
 * **Screen protector**: A glass screen protector is widely recommended to safeguard the LCD from scratches and smudges.
 
-* **Wrist strap**: Many users prefer a simple wrist strap, such as Gordy's wrist loop, for secure handling without adding bulk.
+* **Wrist strap**: Many users prefer a [simple wrist strap](https://www.amazon.com/dp/B098DCWTZ1?tag=thrm08-20), such as Gordy's wrist loop, for secure handling without adding bulk.
 
-* **Extra batteries**: While some users find the GR IIIx's battery sufficient for a day's use, others suggest carrying an extra battery for extended shooting sessions.
+* **Extra batteries**: While some users find the [GR IIIx's battery](https://www.amazon.com/dp/B07S4G1JG2?tag=thrm08-20) sufficient for a day's use, others suggest carrying an extra battery for extended shooting sessions.
 
-* **Carrying case/pouch**: A protective case or pouch is advised to shield the camera from dust and scratches, especially when stored in a bag.
+* **Carrying case/pouch**: [A protective case](https://www.amazon.com/dp/B09FQ7G5FV?tag=thrm08-20) or pouch is advised to shield the camera from dust and scratches, especially when stored in a bag.
 
 
 The [Ricoh GR IIIx](https://www.amazon.com/dp/B09GL1L694?tag=thrm08-20) isn’t trying to be everything. It’s not a zoom camera, not built for sports or wildlife, and not meant for those who want full manual lens control. But for everyday photography, street shooting, and quiet documentation of your surroundings, it’s a beautiful tool.
