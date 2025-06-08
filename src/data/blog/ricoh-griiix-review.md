@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - review
-ogImage: "https://images.unsplash.com/photo-1746983977778-6c5eb334d365"
+ogImage: "https://images.unsplash.com/photo-1749360542984-5d89b0c6143b"
 description:
   Some thoughts on using Ricoh GR IIIx
 ---
@@ -48,20 +48,19 @@ In **Bangkok**, I walked through Chinatown, Benchakitti Park, and the backstreet
 In **Ayutthaya**, the camera handled the shifting light among ancient temples beautifully. The details in the bricks, textures of old ruins, and quiet moments of local life were captured with clarity and mood. The image quality was impressive for such a small device—sharp, contrasty, and with great dynamic range.
 
 
-
 ### What I love: the more I use it, the more I enjoy it
 
 * **Portability**: Truly pocketable. No neck strain, no heavy bag—just grab and go.
 * **Lens**: The 40mm equivalent is a sweet spot between wide and tight, ideal for storytelling.
-* **Image Quality**: The APS-C sensor delivers rich detail and low-light performance.
+* **Image quality**: The APS-C sensor delivers rich detail and low-light performance.
 * **Customizability**: You can tweak the JPEG recipes, assign custom functions, and save presets.
-* **Snap Focus**: A killer feature for fast-paced shooting, especially in busy streets.
+* **Snap focus**: A killer feature for fast-paced shooting, especially in busy streets.
 
 ### What could be better
 
-* **Battery Life**: You'll need a spare. It drains faster than I’d like. And it can get hot easily. (Tip: I don't use its Bluetooth, Wi-Fi; I prefer to transfer photo files from SD card to my computer via cable)
-* **No Viewfinder**: Not a dealbreaker, but in bright sunlight, the LCD can be hard to see.
-* **Menu System**: A bit clunky at first, though customizable buttons help ease the pain.
+* **Battery life**: You'll need a spare. It drains faster than I’d like. And it can get hot easily. (Tip: I don't use its Bluetooth, Wi-Fi; I prefer to transfer photo files from SD card to my computer via cable)
+* **No viewfinder**: Not a dealbreaker, but in bright sunlight, the LCD can be hard to see.
+* **Menu system**: A bit clunky at first, though customizable buttons help ease the pain.
 
 
 ### Some essential accessories:
