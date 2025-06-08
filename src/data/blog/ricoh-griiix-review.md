@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - review
-ogImage: ""
+ogImage: "https://images.unsplash.com/photo-1746983977778-6c5eb334d365"
 description:
   Some thoughts on using Ricoh GR IIIx
 ---
