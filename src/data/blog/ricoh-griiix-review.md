@@ -79,6 +79,7 @@ The [Ricoh GR IIIx](https://www.amazon.com/dp/B09GL1L694?tag=thrm08-20) isn’t 
 If you’re exploring places like Bangkok or Ayutthaya—or just wandering your own city—this camera gets out of the way and lets you shoot.
 
 Updated: 2025 May 23
+
 On May 22, 2025, Ricoh announced the development of GR IV camera, the latest model of the GR-series high-end compact cameras.
 
 ### Ricoh GR III vs GR IV
