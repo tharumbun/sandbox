@@ -29,11 +29,17 @@ After spending some quality time with the **[Ricoh GR IIIx](https://www.amazon.c
 
 ### Using It in Thailand: Bangkok & Ayutthaya
 
+![Buddha head in the roots of  bodhi tree](https://images.unsplash.com/photo-1749360542984-5d89b0c6143b)
+Buddha head in the roots of  bodhi tree, Wat Mahathat, Ayutthaya
+
+
 ![Co-Co Walk](https://images.unsplash.com/photo-1746983245231-fdd1fb878e2a)
 Phaya Thai Rd, Thanon Phetchaburi, Ratchathewi, Bangkok
 
 ![The Story Ayutthaya](https://images.unsplash.com/photo-1746983977778-6c5eb334d365)
 Tambon Tha Wa Su Kri, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000, Thailand
+
+Please note that these photos taken in JPEG. No post production. You can view [my photos here](https://tharum.com/blog/church-holy-sepulchre/) taken in RAW file types with post-production.
 
 Thailand is a photographer’s dream. The vibrant chaos of **Bangkok** and the historical serenity of **Ayutthaya** offered the perfect testing grounds.
 
