@@ -22,12 +22,12 @@ The Ricoh GR IIIx was released in September 2021. I got my hands on it in 2024, 
 Straight out of the box, the Ricoh GR IIIx feels very solid and minimal. It slips easily into my jeans pocket, yet inside this understated shell lies a sharp 26.1mm equivalent lens (40mm in full-frame terms) and an APS-C sensor. That combo immediately appealed to me—especially given my passion for street photography—offering a natural perspective that's a bit tighter than the wider GR III (28mm in full-frame).
 
 
-## Ricoh GR IIIx Review: A Compact Street Shooter in Bangkok and Ayutthaya
+## Ricoh GR IIIx review: A super compact street shooter in Bangkok and Ayutthaya
 
 After spending some quality time with the **[Ricoh GR IIIx](https://www.amazon.com/dp/B09GL1L694?tag=thrm08-20)**, I feel ready to share my thoughts about this compact yet powerful camera. If you're considering a portable camera for travel, street, or everyday photography, the GR IIIx deserves serious attention.
 
 
-### Using It in Thailand: Bangkok & Ayutthaya
+### Using GR IIIx in Thailand: Bangkok & Ayutthaya
 
 ![Buddha head in the roots of  bodhi tree](https://images.unsplash.com/photo-1749360542984-5d89b0c6143b)
 Buddha head in the roots of  bodhi tree, Wat Mahathat, Ayutthaya
@@ -49,7 +49,7 @@ In **Ayutthaya**, the camera handled the shifting light among ancient temples be
 
 
 
-### What I Love
+### What I love: the more I use it, the more I enjoy it
 
 * **Portability**: Truly pocketable. No neck strain, no heavy bag—just grab and go.
 * **Lens**: The 40mm equivalent is a sweet spot between wide and tight, ideal for storytelling.
@@ -57,22 +57,22 @@ In **Ayutthaya**, the camera handled the shifting light among ancient temples be
 * **Customizability**: You can tweak the JPEG recipes, assign custom functions, and save presets.
 * **Snap Focus**: A killer feature for fast-paced shooting, especially in busy streets.
 
-### What Could Be Better
+### What could be better
 
-* **Battery Life**: You'll need a spare. It drains faster than I’d like. And it can get hot easily.
+* **Battery Life**: You'll need a spare. It drains faster than I’d like. And it can get hot easily. (Tip: I don't use its Bluetooth, Wi-Fi; I prefer to transfer photo files from SD card to my computer via cable)
 * **No Viewfinder**: Not a dealbreaker, but in bright sunlight, the LCD can be hard to see.
 * **Menu System**: A bit clunky at first, though customizable buttons help ease the pain.
 
 
-### Some Essential Accessories:
+### Some essential accessories:
 
-* **Screen Protector**: A glass screen protector is widely recommended to safeguard the LCD from scratches and smudges.
+* **Screen protector**: A glass screen protector is widely recommended to safeguard the LCD from scratches and smudges.
 
-* **Wrist Strap**: Many users prefer a simple wrist strap, such as Gordy's wrist loop, for secure handling without adding bulk.
+* **Wrist strap**: Many users prefer a simple wrist strap, such as Gordy's wrist loop, for secure handling without adding bulk.
 
-* **Extra Batteries**: While some users find the GR IIIx's battery sufficient for a day's use, others suggest carrying an extra battery for extended shooting sessions.
+* **Extra batteries**: While some users find the GR IIIx's battery sufficient for a day's use, others suggest carrying an extra battery for extended shooting sessions.
 
-* **Carrying Case/Pouch**: A protective case or pouch is advised to shield the camera from dust and scratches, especially when stored in a bag.
+* **Carrying case/pouch**: A protective case or pouch is advised to shield the camera from dust and scratches, especially when stored in a bag.
 
 
 The [Ricoh GR IIIx](https://www.amazon.com/dp/B09GL1L694?tag=thrm08-20) isn’t trying to be everything. It’s not a zoom camera, not built for sports or wildlife, and not meant for those who want full manual lens control. But for everyday photography, street shooting, and quiet documentation of your surroundings, it’s a beautiful tool.
@@ -82,7 +82,7 @@ If you’re exploring places like Bangkok or Ayutthaya—or just wandering your 
 Updated: 2025 May 23
 On May 22, 2025, Ricoh announced the development of GR IV camera, the latest model of the GR-series high-end compact cameras.
 
-### Ricoh GR III vs GR IV (Speculative Comparison)
+### Ricoh GR III vs GR IV
 
 As of **May 2025**, **Ricoh has not officially released a GR IV**. The latest models in the GR series are the **Ricoh GR III and GR IIIx**, with some limited editions and firmware updates. While there have been community rumors about a GR IV, nothing has been confirmed by Ricoh Imaging.
 
@@ -105,4 +105,5 @@ Below is a comparison between the **Ricoh GR III** and the **expected/speculated
 My first digital camera was a Nikon D60. Before that, I had a Nikon film camera that my father gave me for my first flight to Europe.
 
 Also good read:
+
 [On Reddit: Debating a GR IIIX, worth it in 2024?](https://www.reddit.com/r/ricohGR/comments/1b5eiyr/debating_a_gr_iiix_worth_it_in_2024/)
