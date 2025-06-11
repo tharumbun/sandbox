@@ -33,6 +33,3 @@ title: "Work"
 [Building Bridges Between Cambodia and Israel](https://kiripost.com/stories/cambodia-israel-relations)
 
 Get updates delivered directly to your inbox! \[ powered by [beehiive](https://www.beehiiv.com/?via=tharum) \]
-
-### Explore my photographs I’ve taken over the years
-[available on EyeEm](https://www.eyeem.com/u/33236156)
