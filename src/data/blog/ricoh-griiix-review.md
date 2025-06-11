@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - review
-ogImage: "https://images.unsplash.com/photo-1749360542984-5d89b0c6143b"
+ogImage: "https://img.tharum.com/wp-content/uploads/2025/06/ricoh_griiix.jpg"
 description:
   Some thoughts on using Ricoh GR IIIx
 ---
@@ -18,6 +18,8 @@ description:
 "Image quality and response are the means to respond to the photographer's intentions," according to Ricoh's statement on its [GR's story](https://www.ricoh-imaging.co.jp/english/products/gr_special/story.html). In addition, it defines "An excellent camera is one that works in concert with the user's intention, always providing comfortable feedback."
 
 The Ricoh GR IIIx was released in September 2021. I got my hands on it in 2024, and I'm glad to now have it as my travel companion.
+
+![My Rioch GR IIIx](https://img.tharum.com/wp-content/uploads/2025/06/ricoh_griiix.jpg)
 
 Straight out of the box, the Ricoh GR IIIx feels very solid and minimal. It slips easily into my jeans pocket, yet inside this understated shell lies a sharp 26.1mm equivalent lens (40mm in full-frame terms) and an APS-C sensor. That combo immediately appealed to me—especially given my passion for street photography—offering a natural perspective that's a bit tighter than the wider GR III (28mm in full-frame).
 
