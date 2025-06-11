@@ -80,6 +80,25 @@ The [Ricoh GR IIIx](https://www.amazon.com/dp/B09GL1L694?tag=thrm08-20) isn’t 
 
 If you’re exploring places like Bangkok or Ayutthaya—or just wandering your own city—this camera gets out of the way and lets you shoot.
 
+
+### GR IIIx vs GR III
+
+The Ricoh GR IIIx and GR III are very similar compact cameras, but the key differences come down to lens focal length and a few subtle usability tweaks.
+
+| Feature                  | **Ricoh GR III**                   | **Ricoh GR IIIx**                           |
+| ------------------------ | ---------------------------------- | ------------------------------------------- |
+| **Lens**                 | 18.3mm f/2.8 (28mm equivalent)     | 26.1mm f/2.8 (40mm equivalent)              |
+| **Ideal For**            | Street, landscapes, wide scenes    | Portraits, street details, tighter framing  |
+| **Focal Perspective**    | Wider, more immersive              | More intimate and natural perspective       |
+| **Minimum Focus**        | 6 cm (macro mode)                  | 12 cm (macro mode)                          |
+| **Body Design**          | Identical form factor              | Identical (with slightly more grip texture) |
+| **Firmware Differences** | GR IIIx includes minor JPEG tweaks | GR III firmware updates align closely       |
+
+Choose GR III if you prefer wide-angle shots, street photography in tight spaces, and travel landscapes.
+Choose GR IIIx if you want more natural perspective for portraits, tighter composition, or better subject isolation.
+
+The rest of the specs—sensor (24.2MP APS-C), stabilization, controls, and interface—are practically the same.
+
 Updated: 2025 May 23
 
 On May 22, 2025, Ricoh announced the development of GR IV camera, the latest model of the GR-series high-end compact cameras.
