@@ -19,6 +19,18 @@ I strolled from Jerusaelem beach to the historic Yaffo.
 
 <img src="https://img.tharum.com/wp-content/uploads/2025/06/bmwx40tO3NkjbRPjih-SdhSGtg63eNkhANtdcfi-_TM.jpg" alt="Tel Aviv beach" loading="lazy" />
 
+<img src="https://img.tharum.com/wp-content/uploads/2025/06/1RrbWqxPM69M5SvxU1pBOzUt6jub4cn7DtWDa13-kpw.jpg" alt="Tel Aviv beach" loading="lazy" />
+
+<img src="https://img.tharum.com/wp-content/uploads/2025/06/827DqQoUQz3z_wNxYlmd8PLWvy_QD08YJ_YB9X2rwUM.jpg" alt="Tel Aviv beach" loading="lazy" />
+
+<img src="https://img.tharum.com/wp-content/uploads/2025/06/hFGABXMeAMXUGQSaFIIRGNLvzim-j8CzTXsc4rbirQM.jpg" alt="Tel Aviv beach" loading="lazy" />
+
+<img src="https://img.tharum.com/wp-content/uploads/2025/06/ZE7qV-zFDrONtdSn5P1q5CM8tscuCO_0elYHHAs4HH8.jpg" alt="Tel Aviv beach" loading="lazy" />
+
+<img src="https://img.tharum.com/wp-content/uploads/2025/06/oQeayAfZW4QOiB9GABjpJoQezaTgYQVhFFWE05Bv_78.jpg" alt="Tel Aviv beach" loading="lazy" />
+
+<img src="https://img.tharum.com/wp-content/uploads/2025/06/mMjOcvXvvMtEZLTXU-hppTeQgSdkAJ8VQOebx9BnrZw.jpg" alt="Tel Aviv beach" loading="lazy" />
+
 
 
 [Shot with Ricoh GR IIIx](https://tharum.com/blog/ricoh-griiix-review/)
