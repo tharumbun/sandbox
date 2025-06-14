@@ -13,11 +13,11 @@ description:
 ---
 I strolled from Jerusaelem beach to the historic Yaffo.
 
-<img src="https://img.tharum.com/wp-content/uploads/2025/06/9KvrrCMMJ22IIwGTPSdOkNfu3mEPhDHfDum35Dit6Nk.jpg" alt="Tel Aviv beach" loading="lazy" />
+<img src="https://img.tharum.com/wp-content/uploads/2025/06/cb122678-991d-4f0f-a290-5551057cec55.jpeg" alt="Tel Aviv beach" loading="lazy" />
+
+<img src="https://img.tharum.com/wp-contentuploads/2025/06/9KvrrCMMJ22IIwGTPSdOkNfu3mEPhDHfDum35Dit6Nk.jpg" alt="Tel Aviv beach" loading="lazy" />
 
 <img src="https://img.tharum.com/wp-content/uploads/2025/06/wOmnB9jDYIOL0rMcFni-B0F-ThXGXREBR6FBr-c1jc.jpg" alt="TTel Aviv beach" loading="lazy" />
-
-<img src="https://img.tharum.com/wp-content/uploads/2025/06/bmwx40tO3NkjbRPjih-SdhSGtg63eNkhANtdcfi-_TM.jpg" alt="Tel Aviv beach" loading="lazy" />
 
 <img src="https://img.tharum.com/wp-content/uploads/2025/06/1RrbWqxPM69M5SvxU1pBOzUt6jub4cn7DtWDa13-kpw.jpg" alt="Tel Aviv beach" loading="lazy" />
 
