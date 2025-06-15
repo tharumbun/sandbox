@@ -11,7 +11,9 @@ ogImage: "https://img.tharum.com/wp-content/uploads/2025/06/9KvrrCMMJ22IIwGTPSdO
 description:
    A vibrant coastline with a 14-kilometer stretch of beaches along the Mediterranean Sea
 ---
-I strolled from Jerusaelem beach to the historic Yaffo.
+
+During my one week visit to Tel Aviv, I stayed at Herbert Samuel Opera Tel Aviv hotel, which is just opposite to Jerusalem Beach.
+Before my departure flight, I had about half a morning to stroll from Jerusaelem beach to the historic Yaffo.
 
 <img src="https://img.tharum.com/wp-content/uploads/2025/06/61e39a87-63ee-40c6-923c-74b9e35cbb58.jpeg" alt="Tel Aviv beach" loading="lazy" />
 
