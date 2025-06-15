@@ -17,10 +17,6 @@ Before my departure flight, I had about half a morning to stroll from Jerusaelem
 
 <img src="https://img.tharum.com/wp-content/uploads/2025/06/61e39a87-63ee-40c6-923c-74b9e35cbb58.jpeg" alt="Tel Aviv beach" loading="lazy" />
 
-<img src="https://img.tharum.com/wp-content/uploads/2025/06/qC0bPOfFzKnZ4ZOLnlcUC98ltbxiqJNmYtbYXAbdM4M.jpg" alt="Tel Aviv beach" loading="lazy" />
-
-<img src="https://img.tharum.com/wp-content/uploads/2025/06/YYviLYBZYnzQyNqeC1KxPfFBhRgsKWHk-CQQeRndvqY.jpg" alt="Tel Aviv beach" loading="lazy" />
-
 <img src="https://img.tharum.com/wp-content/uploads/2025/06/XBBdEyDbA5N0F7MZC1mMUxg2O1Axuy1MDgrb3BwnFo4.jpg" alt="Tel Aviv beach" loading="lazy" />
 
 <img src="https://img.tharum.com/wp-content/uploads/2025/06/cb122678-991d-4f0f-a290-5551057cec55.jpeg" alt="Tel Aviv beach" loading="lazy" />
@@ -38,6 +34,10 @@ Before my departure flight, I had about half a morning to stroll from Jerusaelem
 <img src="https://img.tharum.com/wp-content/uploads/2025/06/oQeayAfZW4QOiB9GABjpJoQezaTgYQVhFFWE05Bv_78.jpg" alt="Tel Aviv beach" loading="lazy" />
 
 <img src="https://img.tharum.com/wp-content/uploads/2025/06/mMjOcvXvvMtEZLTXU-hppTeQgSdkAJ8VQOebx9BnrZw.jpg" alt="Tel Aviv beach" loading="lazy" />
+
+<img src="https://img.tharum.com/wp-content/uploads/2025/06/qC0bPOfFzKnZ4ZOLnlcUC98ltbxiqJNmYtbYXAbdM4M.jpg" alt="Tel Aviv beach" loading="lazy" />
+
+<img src="https://img.tharum.com/wp-content/uploads/2025/06/YYviLYBZYnzQyNqeC1KxPfFBhRgsKWHk-CQQeRndvqY.jpg" alt="Tel Aviv beach" loading="lazy" />
 
 <img src="https://img.tharum.com/wp-content/uploads/2025/06/c1b09d19-2945-4d29-aa06-1d839eef4e4b.jpeg" alt="Tel Aviv beach" loading="lazy" />
 
