@@ -61,7 +61,8 @@ Over the years, here are some of the books I have read. Do you have book suggest
 
 **Want to read**
 
-Siam Mapped: A History of the Geo-Body of a Nation by Thongchai Winichakul
+[Siam Mapped: A History of the Geo-Body of a Nation by Thongchai Winichakul](https://www.amazon.com/dp/0824819748?tag=tbun27_cambodia-20)
+
 
 Book of Numbers
 

@@ -1,7 +1,7 @@
 ---
 author: tharum
 pubDatetime: 2025-05-11T15:33:00Z
-title: Ricoh GR IIIx review - the best pocket camera for street photography
+title: Ricoh GR IIIx review - best pocket camera for travel and street photography
 postSlug: ricoh-griiix-review
 featured: false
 draft: false
