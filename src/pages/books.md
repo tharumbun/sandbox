@@ -63,6 +63,7 @@ Over the years, here are some of the books I have read. Do you have book suggest
 
 [Siam Mapped: A History of the Geo-Body of a Nation by Thongchai Winichakul](https://www.amazon.com/dp/0824819748?tag=tbun27_cambodia-20)
 
+[Moments of Silence: The Unforgetting of the October 6, 1976, Massacre in Bangkok](https://www.amazon.com/dp/0824882334?tag=tbun27_cambodia-20) by Thongchai Winichakul 
 
 Book of Numbers
 
