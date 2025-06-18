@@ -59,6 +59,12 @@ Over the years, here are some of the books I have read. Do you have book suggest
 
 [Atlas Shrugged](https://www.amazon.com/dp/0525948929?tag=tbun27_cambodia-20)
 
+**Want to read**
+
+Siam Mapped: A History of the Geo-Body of a Nation by Thongchai Winichakul
+
+Book of Numbers
+
 <small>
 This site earns from qualifying purchases as an Amazon Associate. Affiliate links help support our content and maintenance. We only recommend products we trust and find valuable for our readers.
 </small>
