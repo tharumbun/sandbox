@@ -20,6 +20,7 @@ description:
 The Ricoh GR IIIx was released in September 2021. I got my hands on it in 2024, and I'm glad to now have it as my travel companion.
 
 ![My Rioch GR IIIx](https://img.tharum.com/wp-content/uploads/2025/06/ricoh_griiix.jpg)
+[Check Price on Amazon](https://www.amazon.com/dp/B09GL1L694?tag=thrm08-20)
 
 Straight out of the box, the Ricoh GR IIIx feels very solid and minimal. It slips easily into my jeans pocket, yet inside this understated shell lies a sharp 26.1mm equivalent lens (40mm in full-frame terms) and an APS-C sensor. That combo immediately appealed to me—especially given my passion for street photography—offering a natural perspective that's a bit tighter than the wider GR III (28mm in full-frame).
 
@@ -30,16 +31,14 @@ After spending some quality time with the **[Ricoh GR IIIx](https://www.amazon.c
 
 
 ### Using GR IIIx in Thailand: Bangkok & Ayutthaya
-
-![Buddha head in the roots of  bodhi tree](https://images.unsplash.com/photo-1749360542984-5d89b0c6143b)
-Buddha head in the roots of  bodhi tree, Wat Mahathat, Ayutthaya
-
-
 ![Co-Co Walk](https://images.unsplash.com/photo-1746983245231-fdd1fb878e2a)
 Phaya Thai Rd, Thanon Phetchaburi, Ratchathewi, Bangkok
 
 ![The Story Ayutthaya](https://images.unsplash.com/photo-1746983977778-6c5eb334d365)
 Tambon Tha Wa Su Kri, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000, Thailand
+
+![Buddha head in the roots of  bodhi tree](https://images.unsplash.com/photo-1749360542984-5d89b0c6143b)
+Buddha head in the roots of  bodhi tree, Wat Mahathat, Ayutthaya
 
 Please note that these photos taken in JPEG. No post production. You can view [my photos here](https://tharum.com/blog/church-holy-sepulchre/) taken in RAW file types with post-production.
 
