@@ -13,7 +13,7 @@ description:
 ---
 
 During my one week visit to Tel Aviv in late April of 2025, I stayed at Herbert Samuel Opera Tel Aviv hotel, which is just opposite to Jerusalem Beach.
-Before my departure flight, I had about half a morning to stroll from Jerusaelem beach to the historic Yaffo.
+Before my departure flight, I had about half a morning to stroll from Jerusaelem beach to the Jaffa, an ancient Levantine port city.
 
 <img src="https://img.tharum.com/wp-content/uploads/2025/06/oQeayAfZW4QOiB9GABjpJoQezaTgYQVhFFWE05Bv_78.jpg" alt="Tel Aviv beach" loading="lazy" />
 
