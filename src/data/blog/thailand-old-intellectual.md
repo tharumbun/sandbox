@@ -1,6 +1,6 @@
 ---
 author: tharum
-pubDatetime: 2025-07-26T15:22:00Z
+pubDatetime: 2025-07-25T15:22:00Z
 title: Thailand's old intellectual--Thongchai Winichakul and his Siam Mapped book
 postSlug: thailand-old-intellctual-thongchai-winichakul
 featured: false
@@ -12,8 +12,8 @@ description:
    Siam Mapped
 ---
 
-Exactly 17 years ago, in July 2008, I wrote this piece, Cambodian and Thai Bloggers on Disputed Preah Vihear Temple, for Global Voices.
-https://globalvoices.org/2008/07/20/cambodian-and-thai-bloggers-on-disputed-preah-vihear-temple/
+Exactly 17 years ago, in July 2008, I wrote this piece, [Cambodian and Thai Bloggers on Disputed Preah Vihear Temple](https://globalvoices.org/2008/07/20/cambodian-and-thai-bloggers-on-disputed-preah-vihear-temple/), for [Global Voices](https://globalvoices.org/).
+
 
 Back then, I could gauge the sentiments of netizens from both nations by reading what they wrote on online blogs—this was before the rise of Facebook.
 
