@@ -37,6 +37,10 @@ The book helps explain:
 
 > Why Thai students grow up with a strong emotional attachment to the shape and integrity of Thailand.
 
+> Why Thai nationalism often prioritizes central Thai culture and language.
+
+> Why some ethnic groups or provinces feel excluded or marginalized.
+
 > Why dissenting views on history and borders often face backlash.
 
 A Sino-Thai descent who was born and grew up in Bangkok, he was also one of the student leaders during the Thammasat University massacre in the 1970s.
