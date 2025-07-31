@@ -1,7 +1,7 @@
 ---
 author: tharum
 pubDatetime: 2025-07-25T15:22:00Z
-title: Thongchai Winichakul: One of Thailand’s Old Intellectuals Behind Siam Mapped
+title: Thongchai Winichakul: Thailand’s Intellectual Behind Siam Mapped book
 postSlug: thailand-old-intellctual-thongchai-winichakul
 featured: false
 draft: false
@@ -47,4 +47,10 @@ A Sino-Thai descent who was born and grew up in Bangkok, he was also one of the 
 
 He later authored Moments of Silence: The Unforgetting of the October 6, 1976, Massacre in Bangkok, and the essay "Remembering/Silencing the Traumatic Past: The Ambivalent Memories of the October 1976 Massacre in Bangkok".
 
-https://en.m.wikipedia.org/wiki/Thongchai_Winichakul
+*Updated: 31 July 2025*
+
+Manila-based Mong Palatino, Southeast Asia editor of Global Voices, pulled together some of the key elements from what the media from both Cambodia and Thailand, Kiripost and Khaosod English English in particular, published during the 5-day border conflict. 
+You can read it here: [Displaced residents appeal for peace amid the Cambodia-Thailand border conflict](https://globalvoices.org/2025/07/31/displaced-residents-and-concerned-citizens-appeal-for-peace-amid-the-cambodia-thailand-border-conflict/)
+
+
+
