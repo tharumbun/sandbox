@@ -1,7 +1,7 @@
 ---
 author: tharum
 pubDatetime: 2025-07-25T15:22:00Z
-title: Thongchai Winichakul: Thailand’s Intellectual Behind Siam Mapped book
+title: Thongchai Winichakul's Siam Mapped book
 postSlug: thailand-old-intellctual-thongchai-winichakul
 featured: false
 draft: false
