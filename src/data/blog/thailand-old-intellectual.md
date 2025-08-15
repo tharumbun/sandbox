@@ -11,6 +11,7 @@ ogImage: "https://silkwormbooks.com/cdn/shop/products/SiamMapped.jpg"
 description:
    Siam Mapped
 ---
+Thongchai Winichakul: Arguably Thailand's most sacred scholar and intellectual
 
 Exactly 17 years ago, in July 2008, I wrote this piece, [Cambodian and Thai Bloggers on Disputed Preah Vihear Temple](https://globalvoices.org/2008/07/20/cambodian-and-thai-bloggers-on-disputed-preah-vihear-temple/), for [Global Voices](https://globalvoices.org/).
 
@@ -53,4 +54,6 @@ Manila-based Mong Palatino, Southeast Asia editor of Global Voices, pulled toget
 You can read it here: [Displaced residents appeal for peace amid the Cambodia-Thailand border conflict](https://globalvoices.org/2025/07/31/displaced-residents-and-concerned-citizens-appeal-for-peace-amid-the-cambodia-thailand-border-conflict/)
 
 
+Also: 
 
+> [Anti-university Thongchai Winichakul: Mekong Review](https://mekongreview.com/antiuniversity/)
