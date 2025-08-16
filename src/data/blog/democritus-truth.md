@@ -13,8 +13,8 @@ description:
 ---
 
 “Of truth we know nothing, for truth is in a well.”
-~ Democritus
+~ [Democritus](https://en.wikipedia.org/wiki/Democritus)
 c. 460 – c. 370 BC
 
-“Truth coming from the well armed with her whip to chastise humanity.”
+"[Truth coming from the well](https://en.m.wikipedia.org/wiki/Truth_Coming_Out_of_Her_Well) armed with her whip to chastise humanity.”
 ~ 1896 painting by the French artist Jean-Léon Gérôme.
