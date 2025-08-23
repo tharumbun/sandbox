@@ -50,9 +50,16 @@ He later authored Moments of Silence: The Unforgetting of the October 6, 1976, M
 
 *Updated: 31 July 2025*
 
-Manila-based Mong Palatino, Southeast Asia editor of Global Voices, pulled together some of the key elements from what the media from both Cambodia and Thailand, Kiripost and Khaosod English English in particular, published during the 5-day border conflict. 
+Manila-based Mong Palatino, Southeast Asia editor of Global Voices, pulled together some of the key elements from what the media from both Cambodia and Thailand.
 You can read it here: [Displaced residents appeal for peace amid the Cambodia-Thailand border conflict](https://globalvoices.org/2025/07/31/displaced-residents-and-concerned-citizens-appeal-for-peace-amid-the-cambodia-thailand-border-conflict/)
 
+*Updated: 22 August 2025*
+
+Must-read: [Thongchai Winichakul on the Cambodia-Thailand Border Conflict](https://thediplomat.com/2025/08/thongchai-winichakul-on-the-cambodia-thailand-border-conflict/)
+
+[Book Review: Infiltrating Society: The Thai Military’s Internal Security Affairs](https://www.newmandala.org/book-review/infiltrating-society-the-thai-militarys-internal-security-affairs/)
+
+![Infiltrating Society](https://www.newmandala.org/wp-content/uploads/2021/03/BM596.jpeg)
 
 Also: 
 
