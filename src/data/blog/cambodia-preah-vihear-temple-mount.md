@@ -13,14 +13,6 @@ description:
 ---
 
 A study visit to Preah Vihear temple in May 2006.
-<img src="https://cdn.tharum.com/img/preah-vihear/61300030.JPG" alt="Tel Aviv beach" loading="lazy" />
-
-
-<Image
-  src="https://cdn.tharum.com/img/preah-vihear/61300030.JPG"
-  alt="Preah Vihear Temple"
-  loading="lazy"
-/>
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300030.JPG)
 
