@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - photolog
-ogImage: "https://cdn.tharum.com/img/61300030.JPG"
+ogImage: "https://cdn.tharum.com/img/preah-vihear/61300030.JPG"
 description:
    A vibrant coastline with a 14-kilometer stretch of beaches along the Mediterranean Sea
 ---
@@ -15,6 +15,6 @@ description:
 During my one week visit to Tel Aviv in late April of 2025, I stayed at Herbert Samuel Opera Tel Aviv hotel, which is just opposite to Jerusalem Beach.
 Before my departure flight, I had about half a morning to stroll from Jerusaelem beach to the Jaffa, an ancient Levantine port city.
 
-<img src="https://cdn.tharum.com/img/61300030.JPG" alt="Tel Aviv beach" loading="lazy" />
+<img src="https://cdn.tharum.com/img/preah-vihear/61300030.JPG" alt="Tel Aviv beach" loading="lazy" />
 
 [Shot with Ricoh GR IIIx](https://tharum.com/blog/ricoh-griiix-review/)
