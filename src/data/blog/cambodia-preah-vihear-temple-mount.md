@@ -1,7 +1,7 @@
 ---
 author: tharum
 pubDatetime: 2025-12-25T15:22:00Z
-title: Cambodia's Preah Viheat Temple Mount
+title: Cambodia's Preah Vihear Temple Mount
 postSlug: cambodia-preah-vihear
 featured: false
 draft: false
