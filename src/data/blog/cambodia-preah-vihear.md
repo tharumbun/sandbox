@@ -39,7 +39,7 @@ Preah Vihear, with its sacred atmosphere and timeless beauty, remains one of the
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61290002.JPG)
 
-![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61290022.JPG)
+![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300022.JPG)
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300020.JPG)
 
