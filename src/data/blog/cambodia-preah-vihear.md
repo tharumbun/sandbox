@@ -41,10 +41,7 @@ Preah Vihear is also known as the “temple in the clouds,” standing on a 525-
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300022.JPG)
 
-[ Starting in 2026, I’ll be publishing thousands of my archived photographs from the past two decades on this blog. Stay tuned!
-If you'd like to have these photographs in a print photo book, please email me.]
-
-![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61290020.JPG)
+![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300020.JPG)
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300031.JPG)
 
@@ -52,6 +49,5 @@ If you'd like to have these photographs in a print photo book, please email me.]
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300015.JPG)
 
-
-If you enjoy [my photo blog](https://tharum.com/tags/photolog/), [you’re welcome to chip in to support image hosting.](https://pay.ababank.com/oRF8/u3dmnaz9)
+Starting in 2026, I’ll be publishing thousands of my archived photographs from the past two decades on this blog. If you enjoy my photolog, [you’re welcome to chip in to support image hosting.](https://pay.ababank.com/oRF8/u3dmnaz9)
 
