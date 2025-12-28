@@ -31,3 +31,5 @@ A study visit to Preah Vihear temple in May 2006.
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300015.JPG)
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300001.JPG)
+
+If you find my work helpful, [you’re welcome to chip in to help support my image hosting](https://pay.ababank.com/oRF8/u3dmnaz9). 
