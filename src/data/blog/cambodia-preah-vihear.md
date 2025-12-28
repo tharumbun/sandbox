@@ -51,5 +51,5 @@ Preah Vihear, with its sacred atmosphere and timeless beauty, remains one of the
 
 Starting in 2026, I’ll be publishing thousands of my archived photographs from the past two decades on this blog. If you enjoy my photolog, [you’re welcome to chip in to support image hosting.](https://pay.ababank.com/oRF8/u3dmnaz9)
 
-Get the latest posts from ThaRum by email
+Get the latest posts from ThaRum by email:
 <iframe class="airtable-embed" src="https://airtable.com/embed/appQYkgK7zHwvzU4I/pagLizWBUNebk9NTK/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
