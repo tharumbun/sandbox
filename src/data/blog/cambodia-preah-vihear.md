@@ -14,18 +14,20 @@ description:
 
 A study visit to Preah Vihear temple in May 2006.
 
+![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300026.JPG)
+
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300030.JPG)
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300033.JPG)
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300031.JPG)
 
-![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300026.JPG)
-
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300013.JPG)
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300012.JPG)
 
+![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300015.JPG)
+
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300001.JPG)
 
-![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300015.JPG)
+![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300021.JPG)
