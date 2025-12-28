@@ -21,9 +21,9 @@ Standing proudly on the edge of the Dangrek Mountains, the temple offers sweepin
 
 I was fortunate to travel with Mr. They Chantho, whose knowledge and passion for history transformed the visit into something truly special. As we made our way through the temple complexes, he patiently explained the stories behind the carvings, the symbolism of the structures, and the significance of Preah Vihear throughout Cambodia’s past. His guidance helped me see the temple not just as a monumental structure, but as a living testimony to faith, resilience, and artistry.
 
-![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300033.JPG)
-
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300012.JPG)
+
+![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300033.JPG)
 
 Preah Vihear is also known as the “temple in the clouds,” standing on a 525-meter-high cliff in Cambodia’s Dangrek Mountains.
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300016.JPG)
@@ -46,8 +46,6 @@ Preah Vihear, with its sacred atmosphere and timeless beauty, remains one of the
 
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300001.JPG)
-
-![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300031.JPG)
 
 Starting in 2026, I’ll be publishing thousands of my archived photographs from the past two decades on this blog. If you enjoy my photolog, [you’re welcome to chip in to support image hosting.](https://pay.ababank.com/oRF8/u3dmnaz9)
 
