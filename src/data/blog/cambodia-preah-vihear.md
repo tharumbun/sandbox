@@ -9,7 +9,7 @@ tags:
   - photolog
 ogImage: "https://cdn.tharum.com/img/preah-vihear/61300030.JPG"
 description:
-   A study visit to Preah Vihear temple in May 2006.
+   A study visit to Preah Vihear temple in May 2006. Preah Vihear is also known as the “temple in the clouds,” standing on a 525-meter-high cliff in Cambodia’s Dangrek Mountains.
 ---
 In May 2006, I made a memorable journey to Preah Vihear Temple, one of Cambodia’s most breathtaking and spiritually powerful heritage sites. 
 
@@ -23,6 +23,8 @@ I was fortunate to travel with Mr. They Chantho, whose knowledge and passion for
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300033.JPG)
 
+Preah Vihear is also known as the “temple in the clouds,” standing on a 525-meter-high cliff in Cambodia’s Dangrek Mountains.
+
 Looking back, that trip was more than just a visit to a historical site. It was a journey of learning, reflection, and quiet admiration for the cultural heritage that continues to shape who we are today. 
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300013.JPG)
@@ -31,15 +33,13 @@ Preah Vihear, with its sacred atmosphere and timeless beauty, remains one of the
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300030.JPG)
 
-Preah Vihear is also known as the “temple in the clouds,” standing on a 525-meter-high cliff in Cambodia’s Dangrek Mountains.
-
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300026.JPG)
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300016.JPG)
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61290002.JPG)
 
-![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300022.JPG)
+![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61290022.JPG)
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300020.JPG)
 
