@@ -11,8 +11,9 @@ ogImage: "https://cdn.tharum.com/img/preah-vihear/61300030.JPG"
 description:
    A study visit to Preah Vihear temple in May 2006.
 ---
-In May 2006, I made a memorable journey to Preah Vihear Temple, one of Cambodia’s most breathtaking and spiritually powerful heritage sites. Perched dramatically on the edge of the Dangrek Mountains, the temple offers not only sweeping views across the plains, but also a deep connection to Cambodia’s ancient history and identity. 
+In May 2006, I made a memorable journey to Preah Vihear Temple, one of Cambodia’s most breathtaking and spiritually powerful heritage sites. 
 
+Standing proudly on the edge of the Dangrek Mountains, the temple offers sweeping views across the plains as well as a deep connection to Cambodia’s ancient history and identity.
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300021.JPG)
 
@@ -25,6 +26,8 @@ Looking back, that trip was more than just a visit to a historical site. It was 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300030.JPG)
 
 Preah Vihear is also known as the “temple in the clouds,” standing on a 525-meter-high cliff in Cambodia’s Dangrek Mountains.
+
+![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300016.JPG)
 
 ![Preah Vihear Temple](https://cdn.tharum.com/img/preah-vihear/61300033.JPG)
 
