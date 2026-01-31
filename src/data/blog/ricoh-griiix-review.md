@@ -13,6 +13,10 @@ description:
 ---
 <small>*As an Amazon Associate I earn from qualifying purchases.*</small>
 
+Update:
+The [Ricoh GR IV](https://www.amazon.com/dp/B0FBK7KDFP?tag=thrm08-20) marks the newest evolution of the GR series, featuring a 25.7MP APS-C CMOS sensor, a 28mm F2.8 GR lens (35mm equivalent), in-body image stabilization, and a new GR engine—delivering exceptional image quality in a premium compact design.
+
+
 "The best camera is the one that's with you." Some say the Ricoh GR IIIx is like a pen that fits your hand. As a GRist, I'm very happy to share my thoughts on this little point-and-shoot camera that could.
 
 "Image quality and response are the means to respond to the photographer's intentions," according to Ricoh's statement on its [GR's story](https://www.ricoh-imaging.co.jp/english/products/gr_special/story.html). In addition, it defines "An excellent camera is one that works in concert with the user's intention, always providing comfortable feedback."
