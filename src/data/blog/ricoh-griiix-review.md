@@ -19,35 +19,24 @@ description:
 
 The Ricoh GR IIIx was released in September 2021. I got my hands on it in 2024, and I'm glad to now have it as my travel companion.
 
-![My Rioch GR IIIx](https://img.tharum.com/wp-content/uploads/2025/06/ricoh_griiix.jpg)
 [Check Price on Amazon](https://www.amazon.com/dp/B09GL1L694?tag=thrm08-20)
 
 Straight out of the box, the Ricoh GR IIIx feels very solid and minimal. It slips easily into my jeans pocket, yet inside this understated shell lies a sharp 26.1mm equivalent lens (40mm in full-frame terms) and an APS-C sensor. That combo immediately appealed to me—especially given my passion for street photography—offering a natural perspective that's a bit tighter than the wider GR III (28mm in full-frame).
 
 
-## Ricoh GR IIIx review: A super compact street shooter in Bangkok and Ayutthaya
+## Ricoh GR IIIx review
 
 After spending some quality time with the **[Ricoh GR IIIx](https://www.amazon.com/dp/B09GL1L694?tag=thrm08-20)**, I feel ready to share my thoughts about this compact yet powerful camera. If you're considering a portable camera for travel, street, or everyday photography, the GR IIIx deserves serious attention.
 
 
-### Using GR IIIx in Thailand: Bangkok & Ayutthaya
-![Co-Co Walk](https://images.unsplash.com/photo-1746983245231-fdd1fb878e2a)
-Phaya Thai Rd, Thanon Phetchaburi, Ratchathewi, Bangkok
+### Using GR IIIx: [Ho Chi Minh street life](https://tales.tharum.com/places/ho-chi-minh-city-street/)
 
-![The Story Ayutthaya](https://images.unsplash.com/photo-1746983977778-6c5eb334d365)
-Tambon Tha Wa Su Kri, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000, Thailand
+![A banh mi vendor on the Saigon street](https://cdn.tharum.com/img/saigon/R0001361.jpg)
 
-![Buddha head in the roots of  bodhi tree](https://images.unsplash.com/photo-1749360542984-5d89b0c6143b)
-Buddha head in the roots of  bodhi tree, Wat Mahathat, Ayutthaya
+![Binondo in Manila](https://cdn.tharum.com/img/manila/R0001659_01.jpg)
+
 
 Please note that these photos taken in JPEG. No post production. You can view [my photos here](https://tharum.com/blog/church-holy-sepulchre/) taken in RAW file types with post-production.
-
-Thailand is a photographer’s dream. The vibrant chaos of **Bangkok** and the historical serenity of **Ayutthaya** offered the perfect testing grounds.
-
-In **Bangkok**, I walked through Chinatown, Benchakitti Park, and the backstreets around Sukhumvit. The GR IIIx was perfect for candid street shots. Its **Snap Focus mode** let me zone focus and shoot quickly, silently, and without drawing attention—crucial for authentic street moments.
-
-In **Ayutthaya**, the camera handled the shifting light among ancient temples beautifully. The details in the bricks, textures of old ruins, and quiet moments of local life were captured with clarity and mood. The image quality was impressive for such a small device—sharp, contrasty, and with great dynamic range.
-
 
 ### What I love: the more I use it, the more I enjoy it
 
