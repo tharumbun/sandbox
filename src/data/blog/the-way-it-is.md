@@ -1,13 +1,13 @@
 ---
 author: tharum
-pubDatetime: 2026-02-11T15:22:00Z
+pubDatetime: 2026-02-10T15:22:00Z
 title: The Way It Is
 postSlug: the-way-it-is
 featured: false
 draft: false
 tags:
   - note
-ogImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jean_L%C3%A9on_Gerome_1896_La_V%C3%A9rit%C3%A9_sortant_du_puits.JPG/1505px-Jean_L%C3%A9on_Gerome_1896_La_V%C3%A9rit%C3%A9_sortant_du_puits.JPG"
+ogImage: "https://cdn.grateful.org/uploads/2017/03/09220130/beaded-web-vertical_1280-e1489769885918.jpg"
 description:
    The Way It Is by William Stafford
 ---
