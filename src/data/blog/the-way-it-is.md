@@ -25,3 +25,6 @@ While you hold it you can’t get lost.
 Tragedies happen; people get hurt or die; and you suffer and grow old. 
 Nothing you do can stop time’s unfolding. 
 You don’t ever let go of the thread.
+
+[The Way It Is](https://m.media-amazon.com/images/I/71X8+xVS97L._SL1500_.jpg)
+[The Way It Is: New and Selected Poems Paperback – March 1, 1999](https://www.amazon.com/dp/1555972845?tag=thrm08-20)
