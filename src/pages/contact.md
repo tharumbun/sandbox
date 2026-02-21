@@ -14,9 +14,14 @@ Get updates delivered directly to your inbox!
   class="embeddable-buttondown-form"
   referrerpolicy="unsafe-url"
 >
+  <label for="bd-first-name">Your Name</label>
+  <input type="text" name="first_name" id="bd-first-name" />
+
   <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email" />
+  <input type="email" name="email" id="bd-email" required />
+
   <input type="submit" value="Subscribe" />
+  
   <p>
     <a href="https://buttondown.com/refer/tharum" target="_blank">
       Powered by Buttondown.
