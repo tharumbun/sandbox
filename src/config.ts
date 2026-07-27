@@ -1,9 +1,9 @@
 export const SITE = {
   website: "https://tharum.com", // replace this with your deployed domain
   author: "Tharum Bun",
-  profile: "https://tharum.com",
-  desc: "Blogging from the heart of Cambodia",
-  title: "ThaRum — Notes from Cambodia",
+  profile: "https://tharum.com/",
+  desc: "Musings from Cambodia",
+  title: "ThaRum",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 5,
