@@ -1,6 +1,6 @@
 ---
 author: tharum
-pubDatetime: 2026-07-27T15:22:00Z
+pubDatetime: 2026-07-26T15:22:00Z
 title: Tomb Raider Temple transformed by lush green moss
 postSlug: ta-prom-temple
 featured: false
